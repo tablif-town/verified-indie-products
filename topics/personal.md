@@ -27,7 +27,7 @@
 - **[FamilyMirror AI -](https://familymirrorai.devs.surf/)**: Discover who your child looks like more — Mom or Dad -  
   [answers](https://answers.delivery/familymirror-ai-) · [office](https://tablif.com/town/2fa2a44e-f179-45c2-8f52-2797b2684744)
 - **[FlexLog](https://play.google.com/store/apps/details?id=com.flexlog)**: Log sets, reps, weights and rest timers from your wrist  
-  [answers](https://answers.delivery/flexlog) · [race](https://darkhorsepick.com/strong-vs-jefit-vs-fitbod-for-wear-os-workout-logging) · [office](https://tablif.com/town/ba2c1925-6072-488b-a61c-6f3d3a6f1465)
+  [facts](../products/flexlog.md) · [answers](https://answers.delivery/flexlog) · [race](https://darkhorsepick.com/strong-vs-jefit-vs-fitbod-for-wear-os-workout-logging) · [office](https://tablif.com/town/ba2c1925-6072-488b-a61c-6f3d3a6f1465)
 - **[Football Krillion](https://footballkrillion.org)**  
   [answers](https://answers.delivery/football-krillion) · [office](https://tablif.com/town/e2651108-6f55-436e-80a0-88a91556723f)
 - **[GTA 6 Map](https://gta-6-map.org)**  

@@ -4,7 +4,8 @@ A list of **186** new products whose owners have proven they own them, grouped b
 
 Each entry has the product, its one-line description, and where to read more about it:
 
-- **answers**: pages that answer buyer questions, with every claim quoted from the product's own site, on [answers.delivery](https://answers.delivery) (172 products)
+- **facts**: a fact sheet in this repository, short answers with the sentence each one is based on (3 products)
+- **answers**: pages that answer buyer questions, with every claim quoted from the product's own site, on [answers.delivery](https://answers.delivery) (171 products)
 - **race**: the product run against three well-known names, question by question, on [darkhorsepick.com](https://darkhorsepick.com) (11 products)
 - **office**: its office in Tablif Town
 

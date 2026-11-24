@@ -37,7 +37,7 @@
 - **[Strac Comply](https://comply.strac.io/)**: Get SOC 2 without the sales call  
   [answers](https://answers.delivery/strac-comply) · [office](https://tablif.com/town/09f8cbba-e508-4cd6-b640-b21c8d503e96)
 - **[ToolsGrid](https://toolsgrid.online/)**: Free browser tools for PDFs, images, file compression, resumes and QR codes.  
-  [answers](https://answers.delivery/toolsgrid) · [race](https://darkhorsepick.com/tinywow-vs-pdf24-vs-10015-io-for-private-resume-and-pdf-work) · [office](https://tablif.com/town/43d7b78b-63d1-4623-86b4-a5a16d767555)
+  [facts](../products/toolsgrid.md) · [answers](https://answers.delivery/toolsgrid) · [race](https://darkhorsepick.com/tinywow-vs-pdf24-vs-10015-io-for-private-resume-and-pdf-work) · [office](https://tablif.com/town/43d7b78b-63d1-4623-86b4-a5a16d767555)
 - **[Vuneli](https://vuneli.com)**  
   [answers](https://answers.delivery/vuneli) · [office](https://tablif.com/town/f0aba47c-1479-4b1c-897e-9eabfa6c6a20)
 - **[Website Accessibility Checker](https://websiteaccessibilitychecker.net/)**: Free WCAG 2.2 & ADA website compliance audit tool.  

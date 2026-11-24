@@ -15,7 +15,7 @@
 - **[Foldif](https://foldif.com/)**: Turn your ChatGPT, Claude & Gemini chats into searchable knowledge  
   [answers](https://answers.delivery/foldif) · [office](https://tablif.com/town/31e3d248-9273-4904-91d8-7f7a186d2232)
 - **[Formulate AI](https://www.formulateai.in/)**: An AI workspace where people and agents run work together  
-  [answers](https://answers.delivery/formulate-ai) · [office](https://tablif.com/town/bb23605b-963a-48e0-bb70-4cef3002240b)
+  [facts](../products/formulate-ai.md) · [answers](https://answers.delivery/formulate-ai) · [office](https://tablif.com/town/bb23605b-963a-48e0-bb70-4cef3002240b)
 - **[Milvago AI](https://www.milvago.ai/)**: Open-core - AI usage and Shadow AI control for Endpoint  
   [answers](https://answers.delivery/milvago-ai) · [office](https://tablif.com/town/039bec6f-ed9f-4589-b8e2-93eb0be00bc7)
 - **[Night Crew](https://nightcrewapp.com/)**: Keep your Mac awake only while coding agents work lid closed  
