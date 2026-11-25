@@ -204,6 +204,54 @@ Yes. Desk and reading light is one of the everyday checks it is made for, and th
 
 > Desk and reading light
 
+### Does WristLux measure UV or color temperature?
+
+Not according to the listing. It describes an ambient light meter that reads in lux or foot-candles, with no mention of UV or color temperature.
+
+> Lux and foot-candle units
+
+### Why look at the session average instead of a single reading?
+
+Light shifts as clouds pass or as your arm moves, so one number can mislead. A session gives you the minimum, maximum and average along with how long you measured.
+
+> Session min, max, average, and duration
+
+### Is the reading precise enough to hit a lux target from a plant guide?
+
+Roughly. Readings are approximate and shift with watch model, wrist angle and sensor placement, so treat the guide's target as a range and compare spots rather than chase one exact number.
+
+> Ambient light readings are approximate and vary by watch model, wrist angle, shadows, cases, sleeves, and sensor placement.
+
+### Does a session tell me how long I measured?
+
+Yes. Along with the minimum, maximum and average, a session shows its duration, so you know how much time the numbers cover.
+
+> Session min, max, average, and duration
+
+### Is the number on my watch face complication live?
+
+No. The complication shows the latest reading you saved in the main app, not a fresh background measurement. Open the app and measure again to update it.
+
+> The Tile and complication use the latest reading saved by the main app.
+
+### What kind of light checks is it made for?
+
+Quick everyday ones. The listing names desk and reading light, plant spots, photo and video scouting, and general light awareness indoors, outdoors and in the evening.
+
+> Use WristLux for quick light checks around everyday situations:
+
+### Do the Tile and complication cost extra?
+
+No. WristLux is a one-time purchase with no in-app purchases, and the Tile and complication are part of the app.
+
+> Q: Is the price still 0.99 USD as a one-time purchase, with no in-app purchases? A (founder): Yes
+
+### Do I have to keep my phone nearby while measuring?
+
+No. WristLux runs on the watch on its own, with no phone companion app or account needed.
+
+> Standalone Wear OS app with no account or phone companion required
+
 ## What it does not do
 
 - It isn't a certified professional light meter.
@@ -220,14 +268,19 @@ Yes. Desk and reading light is one of the everyday checks it is made for, and th
 
 ## Longer reads
 
+- [Before and after template for testing a new light bulb](https://answers.delivery/wristlux/before-and-after-template-for-testing-a-new-light-bulb)
 - [How to check the light at a location before a shoot](https://answers.delivery/wristlux/check-light-at-a-photo-location-before-shooting)
 - [Checklist for consistent light readings on your watch](https://answers.delivery/wristlux/checklist-for-consistent-light-readings-on-your-watch)
 - [Choosing where the reading chair goes after dark](https://answers.delivery/wristlux/choosing-where-the-reading-chair-goes-after-dark)
+- [Finding steady light for painting in a small flat](https://answers.delivery/wristlux/finding-steady-light-for-painting-in-a-small-flat)
+- [How to recheck your plant spots as the seasons change](https://answers.delivery/wristlux/houseplant-not-getting-enough-light-in-winter)
 - [How to check if your evening lighting is too bright](https://answers.delivery/wristlux/how-bright-is-my-room-in-the-evening)
 - [How to check the light under a grow light](https://answers.delivery/wristlux/how-much-light-does-my-plant-get)
 - [How to check light levels in lux from your Wear OS watch](https://answers.delivery/wristlux/how-to-check-lux-on-wear-os)
 - [How to compare light in two rooms with your watch](https://answers.delivery/wristlux/how-to-compare-light-in-two-rooms-with-your-watch)
 - [How to find the darkest corner of a room with a watch](https://answers.delivery/wristlux/how-to-find-the-darkest-corner-of-a-room-with-a-watch)
+- [How to keep a saved lux reading one glance away](https://answers.delivery/wristlux/how-to-keep-a-saved-lux-reading-one-glance-away)
+- [How to measure light in spots where you can't see the screen](https://answers.delivery/wristlux/how-to-measure-light-under-a-cabinet-or-inside-a-shelf)
 - [How to tell if dim lamp light is tiring your eyes](https://answers.delivery/wristlux/is-my-desk-lighting-bright-enough-for-reading)
 - [How to tell if a spot is bright enough for a houseplant](https://answers.delivery/wristlux/is-this-spot-bright-enough-for-my-plant)
 - [Light checklist for viewing a flat before you rent](https://answers.delivery/wristlux/light-checklist-for-viewing-a-flat-before-you-rent)

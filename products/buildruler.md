@@ -96,6 +96,36 @@ Email hello&&#35;64;buildruler.com with questions or corrections.
 
 > Questions or corrections: hello&&#35;64;buildruler.com.
 
+### Can it tell me how many bags of attic insulation to buy?
+
+Yes. The Attic Insulation Calculator counts bags of blown insulation for the R-value you are aiming for.
+
+> Bags of blown insulation to reach your target R-value.
+
+### Can it tell me what size air conditioner a room needs?
+
+Yes, for a single room the BTU Calculator gives the air conditioner or heater size. For ductless systems or a whole house, the Mini Split and Heat Pump calculators go further.
+
+> Air conditioner and heater size for a room.
+
+### Can it measure a room that is not a simple rectangle?
+
+Yes. Split the room into simple pieces and the Square Footage Calculator adds them up for you.
+
+> Square feet of rooms and odd shapes, added up.
+
+### Can I add measurements in feet, inches and fractions?
+
+Yes. The Feet and Inches Calculator adds, subtracts, multiplies and divides lengths with fractions, so you do not have to convert to decimals first.
+
+> Add, subtract, multiply and divide feet, inches and fractions.
+
+### Can it size a generator for my house?
+
+It works out the running and starting watts for what you want to power, which is the number to compare generator sizes against. A separate calculator estimates the cost of a whole house standby unit.
+
+> Running and starting watts for what you need to power.
+
 ## What it does not do
 
 - It doesn't provide guaranteed final engineering calculations or local code compliance checks.
@@ -106,7 +136,12 @@ Email hello&&#35;64;buildruler.com with questions or corrections.
 
 - [How to calculate building materials for DIY projects](https://answers.delivery/buildruler-free-material-calculators/how-to-calculate-materials-for-home-projects)
 - [How to work out stair stringers for deck steps](https://answers.delivery/buildruler-free-material-calculators/how-to-lay-out-stair-stringers-for-deck-steps)
+- [How much mulch to buy for your garden beds](https://answers.delivery/buildruler/calculate-how-much-mulch-is-needed-for-a-garden)
 - [How many bags of concrete or tons of gravel to buy](https://answers.delivery/buildruler/how-to-estimate-concrete-and-gravel-quantities)
+
+## Raced against well-known names
+
+- [Inch Calculator vs Calculator.net vs Omni Calculator for estimating gravel and materials for a yard project, and the dark horse](https://darkhorsepick.com/inch-calculator-vs-calculator-net-vs-omni-calculator-for-diy-material-estimates)
 
 ---
 

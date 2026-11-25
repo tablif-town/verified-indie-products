@@ -1,8 +1,8 @@
 {
   "name": "Verified indie products",
   "source": "https://tablif.com",
-  "updated": "2026-11-24",
-  "count": 186,
+  "updated": "2026-11-25",
+  "count": 189,
   "products": [
     {
       "id": "219875",
@@ -253,7 +253,12 @@
       "verifiedAt": "2026-11-09",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/buildruler.md",
       "answers": "https://answers.delivery/buildruler",
-      "races": [],
+      "races": [
+        {
+          "title": "Inch Calculator vs Calculator.net vs Omni Calculator for estimating gravel and materials for a yard project, and the dark horse",
+          "url": "https://darkhorsepick.com/inch-calculator-vs-calculator-net-vs-omni-calculator-for-diy-material-estimates"
+        }
+      ],
       "office": "https://tablif.com/town/7e4c8aae-a17c-4ead-bb84-b5560e18fe6e"
     },
     {
@@ -656,7 +661,12 @@
       "verifiedAt": "2026-10-31",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/fashion-try-on-ai.md",
       "answers": "https://answers.delivery/fashion-try-on-ai",
-      "races": [],
+      "races": [
+        {
+          "title": "FASHN vs Botika vs Doji for turning a fabric or print into an outfit and seeing it on a person, and the dark horse",
+          "url": "https://darkhorsepick.com/fashn-vs-botika-vs-doji-for-designing-outfits-from-fabric"
+        }
+      ],
       "office": "https://tablif.com/town/48ec248d-0050-4a7c-9cbf-781004b8238a"
     },
     {
@@ -900,7 +910,12 @@
       "verifiedAt": "2026-11-22",
       "facts": null,
       "answers": null,
-      "races": [],
+      "races": [
+        {
+          "title": "GitHub Readme Stats vs GitRoll vs Profile Summary for GitHub for sharing a fun, game-style card of your GitHub profile, and the dark horse",
+          "url": "https://darkhorsepick.com/github-readme-stats-vs-gitroll-vs-profile-summary-for-fun-github-cards"
+        }
+      ],
       "office": "https://tablif.com/town/d672a6d6-b362-4c32-b462-4fe101b6e7a5"
     },
     {
@@ -995,6 +1010,19 @@
       "office": "https://tablif.com/town/c7069c0e-20be-407b-a174-4243af8c6474"
     },
     {
+      "id": "309526",
+      "name": "HostMyImg",
+      "url": "https://hostmyimg.com/",
+      "tagline": "Free Image Hosting to Upload and Share Images Online",
+      "topic": "Work and office",
+      "firstSeen": "2026-11-14",
+      "verifiedAt": "2026-11-24",
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/hostmyimg.md",
+      "answers": "https://answers.delivery/hostmyimg",
+      "races": [],
+      "office": "https://tablif.com/town/9c47c466-54a6-4c52-9a0b-fe9f9bcc19b8"
+    },
+    {
       "id": "188110",
       "name": "iASO",
       "url": "https://github.com/orlandonanditonehemia/iASO",
@@ -1032,6 +1060,19 @@
       "answers": "https://answers.delivery/iconcraft-for-mac",
       "races": [],
       "office": "https://tablif.com/town/963b6bd5-89c9-49c1-bb05-cc5fa8a133d3"
+    },
+    {
+      "id": "393000",
+      "name": "Image Describer",
+      "url": "https://image-describer.app",
+      "tagline": null,
+      "topic": "Industry",
+      "firstSeen": "2026-11-24",
+      "verifiedAt": "2026-11-24",
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/image-describer.md",
+      "answers": "https://answers.delivery/image-describer",
+      "races": [],
+      "office": "https://tablif.com/town/a17405c5-e72c-4a9c-aa46-ecd00e82db4d"
     },
     {
       "id": "144433",
@@ -1089,7 +1130,7 @@
       "id": "324402",
       "name": "KaraDesk",
       "url": "https://karadesk.com/",
-      "tagline": "AI customer support that saves your team time and helps customers",
+      "tagline": "One place, every customer conversation, faster replies together.",
       "topic": "Marketing and sales",
       "firstSeen": "2026-11-18",
       "verifiedAt": "2026-11-20",
@@ -1219,6 +1260,19 @@
       "answers": "https://answers.delivery/mapitt",
       "races": [],
       "office": "https://tablif.com/town/b550c134-1fec-4b6c-b847-5d219bac25cd"
+    },
+    {
+      "id": "322596",
+      "name": "Mars Rally Championship",
+      "url": "https://marsrallychampionship.com/",
+      "tagline": "Free 3D rally racing on Mars, right in your browser",
+      "topic": "Personal",
+      "firstSeen": "2026-11-18",
+      "verifiedAt": "2026-11-24",
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/mars-rally-championship.md",
+      "answers": "https://answers.delivery/mars-rally-championship",
+      "races": [],
+      "office": "https://tablif.com/town/195b035d-bd14-45af-bd0b-fac7463736ae"
     },
     {
       "id": "207122",
@@ -1373,7 +1427,12 @@
       "verifiedAt": "2026-11-10",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/night-crew.md",
       "answers": "https://answers.delivery/night-crew",
-      "races": [],
+      "races": [
+        {
+          "title": "KeepingYouAwake vs Lungo vs Theine for keeping your Mac awake while AI coding agents work, and the dark horse",
+          "url": "https://darkhorsepick.com/keepingyouawake-vs-lungo-vs-theine-for-ai-coding-agents"
+        }
+      ],
       "office": "https://tablif.com/town/960913f3-1fda-4e07-bb5f-8e54c91de4f3"
     },
     {
@@ -2212,7 +2271,12 @@
       "verifiedAt": null,
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/towami.md",
       "answers": "https://answers.delivery/towami",
-      "races": [],
+      "races": [
+        {
+          "title": "Tiendanube vs Jumpseller vs Mercado Libre for running your own store and a local marketplace listing from one catalog, and the dark horse",
+          "url": "https://darkhorsepick.com/tiendanube-vs-jumpseller-vs-mercado-libre-for-store-plus-marketplace"
+        }
+      ],
       "office": "https://tablif.com/town/d06b1a85-bab7-4297-8ef5-692708682cca"
     },
     {
@@ -2459,8 +2523,8 @@
       "topic": "AI and agents",
       "firstSeen": "2026-11-10",
       "verifiedAt": "2026-11-11",
-      "facts": null,
-      "answers": null,
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/zambo.md",
+      "answers": "https://answers.delivery/zambo",
       "races": [],
       "office": "https://tablif.com/town/9c321314-f71a-453a-ab69-71c3387ecdd8"
     },

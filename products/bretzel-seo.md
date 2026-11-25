@@ -174,6 +174,54 @@ Google's own local ranking criteria. The team says the audit follows the officia
 
 > Notre audit s’appuie sur les critères officiels de positionnement local détaillés dans le centre d’aide Google Business Profile.
 
+### How many client projects fit on the free plan?
+
+One. The free plan holds a single client or project, while Starter, Pro and Agency have no project limit.
+
+> Clients / projets 1 Illimité Illimité Illimité
+
+### How long does a first analysis take?
+
+About 30 seconds for the quick analysis on the home page. The site gives no time for a full multi-page crawl.
+
+> résultat en 30 secondes
+
+### Which plan is meant for a local business owner?
+
+Starter. The pricing page describes it as the plan for local businesses that want more visibility on Google.
+
+> Pour les entreprises locales qui veulent améliorer leur visibilité sur Google.
+
+### Which plan suits a solo freelance SEO consultant?
+
+Pro is the one aimed at freelancers who deliver full audits to their clients. It is also the plan marked as recommended on the pricing page.
+
+> Pour les freelances SEO qui souhaitent livrer des audits complets à leurs clients.
+
+### Does it look at indexing and HTML structure, or only local signals?
+
+Both. The technical SEO audit flags technical errors, indexing problems, HTML structure issues and crawl problems alongside the local checks.
+
+> Détection des erreurs techniques, indexation, structure HTML et crawl.
+
+### Can I use it for small business and e-commerce clients too?
+
+Yes. The agency page says it fits local clients, small and medium businesses and e-commerce sites.
+
+> Adapté aux clients locaux, PME et e-commerce
+
+### Can I see a demo before signing up?
+
+Yes. You can request a demo from the pricing page, and the home page links to a demo as well.
+
+> Demander Une Démo
+
+### Can I follow a client's progress after the first audit?
+
+Yes. Follow-up is the last step of the agency workflow, where you measure progress, adjust priorities and plan the next actions.
+
+> Mesurez les progrès, ajustez les priorités et préparez les prochaines actions dans le temps.
+
 ## What it does not do
 
 - It doesn't replace the expertise of an SEO agency. It helps you structure and present that expertise.
@@ -191,8 +239,13 @@ Google's own local ranking criteria. The team says the audit follows the officia
 ## Longer reads
 
 - [How to run a local SEO audit faster](https://answers.delivery/bretzel-seo/audit-seo-local-trop-long)
+- [Checklist to pick a local SEO plan that fits your clients](https://answers.delivery/bretzel-seo/checklist-to-pick-a-local-seo-plan-that-fits-your-clients)
 - [How to keep a client's SEO data in one place](https://answers.delivery/bretzel-seo/donnees-seo-dispersees)
+- [Fixing audits that differ between consultants on a team](https://answers.delivery/bretzel-seo/fixing-audits-that-differ-between-consultants-on-a-team)
+- [Local SEO help for owners who do it themselves](https://answers.delivery/bretzel-seo/for-local-business-owners-who-handle-their-own-seo)
 - [How to check a business's details match across directories](https://answers.delivery/bretzel-seo/how-to-check-nap-consistency-across-local-directories)
+- [How to find indexing and crawl errors on a client site](https://answers.delivery/bretzel-seo/how-to-find-indexing-and-crawl-errors-on-a-client-site)
+- [How to find what slows down a local business website](https://answers.delivery/bretzel-seo/how-to-find-what-slows-down-a-small-business-website)
 - [How to decide which local SEO fixes to do first](https://answers.delivery/bretzel-seo/how-to-prioritize-local-seo-recommendations)
 - [How to see where a business ranks across Google Maps](https://answers.delivery/bretzel-seo/how-to-see-where-a-business-ranks-across-google-maps)
 - [How to send a client a white label local SEO report](https://answers.delivery/bretzel-seo/how-to-send-a-client-a-white-label-local-seo-report)

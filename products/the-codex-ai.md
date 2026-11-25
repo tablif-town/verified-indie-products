@@ -174,6 +174,54 @@ No. The app loads the live platform, so a change on the website shows up in the 
 
 > The app loads the live platform, so every web update reaches it without a store update.
 
+### Is there an iOS app?
+
+No. It runs in the browser and on Android only for now, so on an iPhone you would use the web version.
+
+> Web and Android only for now.
+
+### How much context does each plan give the model?
+
+It depends on the tier. Free gets 8K tokens, Supporter 20k, Adventurer 40k and Legend 131k, and bringing your own key can go above 131k.
+
+> 8K token for free tier, 20k tokens for Supporter tier (5 USD), 40k tokens for Adventurer tier (10 USD), and 131k for Legend tier (20 USD).
+
+### Can I use the free model for one story and my own key for another?
+
+Yes. One account can run some stories on the free platform model and others on your own API key.
+
+> Can one account use the free platform model for some stories and its own API key for others?
+
+### How many images do the paid plans include?
+
+More with each tier. Supporter gets 100 Elysium and 10 Prism images a month, Adventurer 1000 Elysium and 100 Prism, and Legend has no cap on either.
+
+> Adventurer (10 USD): 1000/mo (Elysium), 100/mo (Prism)
+
+### Can it illustrate a scene while I play?
+
+Yes. OmniVisualizer reads the turns of a story or Cast Lounge and generates an illustration of the scene, and it shows you the prompt it used.
+
+> Automatically analyzes turns to generate context-grounded illustrations with full-resolution lightbox zoom and prompt transparency.
+
+### Can I share a character publicly and still hide its secret lore?
+
+Yes. Public character sharing comes with Anti-Theft Spoiler Shielding, which is meant to protect confidential lore.
+
+> Share characters publicly, discover community cast members on the home page, and protect confidential lore with Anti-Theft Spoiler Shielding.
+
+### Can I write my own system prompt?
+
+Yes. You can author modular system prompts and use macro variables like {{user}}, {{characters}} and {{codex}}.
+
+> Author custom modular system prompts with dynamic macro variables ({{user}}, {{characters}}, {{codex}}).
+
+### Is there a place to show other people what I made?
+
+Yes. The official Discord server has a space to showcase character cards, branching stories, AI generations and lore codices.
+
+> Showcase your custom character cards, branching stories, AI generations, and lore codices.
+
 ## What it does not do
 
 - It doesn't have a public Android app yet. The Google Play version is in closed testing for approved testers.
@@ -189,8 +237,13 @@ No. The app loads the live platform, so a change on the website shows up in the 
 - [For writers who want to turn AI scenes into a manuscript](https://answers.delivery/the-codex-ai/for-fiction-writers-who-want-to-turn-ai-assisted-scene)
 - [For SillyTavern users who want a browser-based setup](https://answers.delivery/the-codex-ai/for-sillytavern-users-who-want-their-characters-and-lo)
 - [How to connect your own API key for AI roleplay](https://answers.delivery/the-codex-ai/how-to-connect-your-own-api-key-for-ai-roleplay)
+- [How to install the Android app during closed testing](https://answers.delivery/the-codex-ai/how-to-install-the-android-app-during-closed-testing)
 - [How to roleplay with AI models without filters](https://answers.delivery/the-codex-ai/how-to-roleplay-with-uncensored-ai-models)
 - [How to set up a group chat with several AI characters](https://answers.delivery/the-codex-ai/how-to-set-up-a-group-chat-with-several-ai-characters)
+- [How to keep private roleplay logs unreadable to admins](https://answers.delivery/the-codex-ai/keep-ai-roleplay-chats-private-with-end-to-end-encryption)
+- [How to keep AI characters in one room from sounding alike](https://answers.delivery/the-codex-ai/make-ai-characters-in-a-group-chat-sound-different)
+- [Picking up last night's roleplay on the train](https://answers.delivery/the-codex-ai/picking-up-last-nights-roleplay-on-the-train)
+- [Questions to answer before you pay for a roleplay plan](https://answers.delivery/the-codex-ai/questions-to-answer-before-you-pay-for-a-roleplay-plan)
 - [Seeing how a character's trust in you changes](https://answers.delivery/the-codex-ai/seeing-how-a-characters-trust-in-you-changes)
 - [Ways to run AI character roleplay on your own terms](https://answers.delivery/the-codex-ai/ways-to-run-ai-character-roleplay-on-your-own-terms)
 

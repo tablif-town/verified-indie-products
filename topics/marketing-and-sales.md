@@ -17,7 +17,7 @@
 - **[Flexlio 3.0](https://flexlio.co.uk/)**: Build, sync and export editable banner campaigns in Figma  
   [facts](../products/flexlio-30.md) · [answers](https://answers.delivery/flexlio-30) · [office](https://tablif.com/town/b4c8755f-bef0-4f4f-91ed-2cea68c286e4)
 - **[GitOne](https://gitone.langersword.in/)**: Your GitHub, rated like an F1 driver  
-  [office](https://tablif.com/town/d672a6d6-b362-4c32-b462-4fe101b6e7a5)
+  [race](https://darkhorsepick.com/github-readme-stats-vs-gitroll-vs-profile-summary-for-fun-github-cards) · [office](https://tablif.com/town/d672a6d6-b362-4c32-b462-4fe101b6e7a5)
 - **[GroupBlaster](https://groupblaster.marbelona.com/)**: Facebook Groups Auto Poster  
   [facts](../products/groupblaster.md) · [answers](https://answers.delivery/groupblaster) · [office](https://tablif.com/town/23bc58c7-ce9e-447e-bbfb-266620436af7)
 - **[Heigin](https://heigin.com/)**  
@@ -26,7 +26,7 @@
   [facts](../products/iaso.md) · [answers](https://answers.delivery/iaso) · [office](https://tablif.com/town/fd1d6789-4aee-4411-b1c6-e971a92f2130)
 - **[iBlueText](https://ibluetext.com/)**: iMessage Marketing & iPhone Number Lookup SMS - Whatsapp  
   [office](https://tablif.com/town/0414c9e2-0947-4b70-83bf-632df9cc990e)
-- **[KaraDesk](https://karadesk.com/)**: AI customer support that saves your team time and helps customers  
+- **[KaraDesk](https://karadesk.com/)**: One place, every customer conversation, faster replies together.  
   [office](https://tablif.com/town/c0e86dc5-788b-48db-8653-d22d115be846)
 - **[launchese](https://launchese.com)**  
   [facts](../products/launchese.md) · [answers](https://answers.delivery/launchese) · [office](https://tablif.com/town/61cb2547-7fc4-49bf-abe5-431d409d121d)

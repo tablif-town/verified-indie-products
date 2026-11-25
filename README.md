@@ -1,12 +1,12 @@
 # Verified indie products
 
-A list of **186** new products whose owners have proven they own them, grouped by what they are for. It is rebuilt every day from [Tablif Town](https://tablif.com), where every new product launch gets an office.
+A list of **189** new products whose owners have proven they own them, grouped by what they are for. It is rebuilt every day from [Tablif Town](https://tablif.com), where every new product launch gets an office.
 
 Each entry has the product, its one-line description, and where to read more about it:
 
-- **facts**: a fact sheet in this repository, with short answers, the sentence each one is based on, and links to longer reads (171 products)
-- **answers**: pages that answer buyer questions, with every claim quoted from the product's own site, on [answers.delivery](https://answers.delivery) (171 products)
-- **race**: the product run against three well-known names, question by question, on [darkhorsepick.com](https://darkhorsepick.com) (11 products)
+- **facts**: a fact sheet in this repository, with short answers, the sentence each one is based on, and links to longer reads (175 products)
+- **answers**: pages that answer buyer questions, with every claim quoted from the product's own site, on [answers.delivery](https://answers.delivery) (175 products)
+- **race**: the product run against three well-known names, question by question, on [darkhorsepick.com](https://darkhorsepick.com) (16 products)
 - **office**: its office in Tablif Town
 
 The whole list as data: [`products.json`](products.json).
@@ -21,20 +21,26 @@ The whole list as data: [`products.json`](products.json).
 | [Desktop and utilities](topics/desktop-and-utilities.md) | 15 | WristBridge, Bottleneck Calculator, BuildRuler |
 | [Developer](topics/developer.md) | 13 | check-host.one, Quay Term, kafkaesque |
 | [Education](topics/education.md) | 5 | CursorFlow, MasterAI Now, Mbeng — Ton parcours pour étudier en France |
-| [Industry](topics/industry.md) | 23 | SmartApp.az, Estackly, Custom Boxes Canada |
+| [Industry](topics/industry.md) | 24 | Image Describer, SmartApp.az, Estackly |
 | [Marketing and sales](topics/marketing-and-sales.md) | 26 | GitOne, iBlueText, KaraDesk |
-| [Personal](topics/personal.md) | 39 | WristPet, RallyCue, Workout Interval HIIT Timer |
+| [Personal](topics/personal.md) | 40 | Mars Rally Championship, WristPet, RallyCue |
 | [Startup](topics/startup.md) | 6 | SpinBuild, Client Finch, Freveo |
 | [Visual and media](topics/visual-and-media.md) | 13 | southparkmaker, PavoAI, qwenimage-21 |
-| [Work and office](topics/work-and-office.md) | 21 | SkynetAccessibility Scanner, ToolsGrid, DonePDF – Free PDF Tools |
+| [Work and office](topics/work-and-office.md) | 22 | HostMyImg, SkynetAccessibility Scanner, ToolsGrid |
 | [More products](topics/more-products.md) | 2 | dirtool, Cala HQ |
 
 ## Newly verified
 
+- **[Image Describer](https://image-describer.app)**  
+  [Industry](topics/industry.md) · [facts](products/image-describer.md) · [answers](https://answers.delivery/image-describer) · [office](https://tablif.com/town/a17405c5-e72c-4a9c-aa46-ecd00e82db4d)
 - **[dirtool](https://dirtool.com/)**: Software directory with hand-reviewed listings  
   [More products](topics/more-products.md) · [facts](products/dirtool.md) · [answers](https://answers.delivery/dirtool) · [office](https://tablif.com/town/968173fd-0c73-41ce-90ce-c470f7f8c893)
 - **[GeoAlarm](https://play.google.com/store/apps/details?id=com.relacosm.geospatialalarm)**: Fell asleep on the bus? Wake up at your stop  
   [Data](topics/data.md) · [facts](products/geoalarm.md) · [answers](https://answers.delivery/geoalarm) · [office](https://tablif.com/town/375f56b4-1f47-439e-adfb-1558070aa60a)
+- **[Mars Rally Championship](https://marsrallychampionship.com/)**: Free 3D rally racing on Mars, right in your browser  
+  [Personal](topics/personal.md) · [facts](products/mars-rally-championship.md) · [answers](https://answers.delivery/mars-rally-championship) · [office](https://tablif.com/town/195b035d-bd14-45af-bd0b-fac7463736ae)
+- **[HostMyImg](https://hostmyimg.com/)**: Free Image Hosting to Upload and Share Images Online  
+  [Work and office](topics/work-and-office.md) · [facts](products/hostmyimg.md) · [answers](https://answers.delivery/hostmyimg) · [office](https://tablif.com/town/9c47c466-54a6-4c52-9a0b-fe9f9bcc19b8)
 - **[WristPet](https://play.google.com/store/apps/details?id=com.quazmoz.wristpet)**: A habit tracker where your streaks grow a virtual pet  
   [Personal](topics/personal.md) · [race](https://darkhorsepick.com/finch-vs-ticktick-vs-loop-habit-tracker-for-wear-os-habits) · [office](https://tablif.com/town/558eb62c-a13b-4585-8e15-2692bf1bc288)
 - **[RallyCue](https://play.google.com/store/apps/details?id=com.quazmoz.rallycue)**: Tennis scorekeeping on your Wear OS watch, by voice or tap  
@@ -45,12 +51,6 @@ The whole list as data: [`products.json`](products.json).
   [Desktop and utilities](topics/desktop-and-utilities.md) · [facts](products/wristbridge.md) · [answers](https://answers.delivery/wristbridge) · [office](https://tablif.com/town/a3a42903-206e-4df0-98a8-74376a37ed3e)
 - **[WalkReset](https://play.google.com/store/apps/details?id=com.quazmoz.walkreset)**: Walking-break reminders that check you actually walked  
   [Personal](topics/personal.md) · [facts](products/walkreset.md) · [answers](https://answers.delivery/walkreset) · [race](https://darkhorsepick.com/fitbit-vs-garmin-vs-samsung-health-for-walking-breaks) · [office](https://tablif.com/town/00962416-bb20-430d-b5b6-1fc4985a9100)
-- **[GitOne](https://gitone.langersword.in/)**: Your GitHub, rated like an F1 driver  
-  [Marketing and sales](topics/marketing-and-sales.md) · [office](https://tablif.com/town/d672a6d6-b362-4c32-b462-4fe101b6e7a5)
-- **[CursorFlow](https://cursorflow.studio/)**: Mac screen recorder that zooms into your clicks for you  
-  [Education](topics/education.md) · [facts](products/cursorflow.md) · [answers](https://answers.delivery/cursorflow) · [office](https://tablif.com/town/13bd168e-51b8-494e-b87c-1a42e31a8667)
-- **[iBlueText](https://ibluetext.com/)**: iMessage Marketing & iPhone Number Lookup SMS - Whatsapp  
-  [Marketing and sales](topics/marketing-and-sales.md) · [office](https://tablif.com/town/0414c9e2-0947-4b70-83bf-632df9cc990e)
 
 ## Add your product
 

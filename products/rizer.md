@@ -186,6 +186,24 @@ No. Material and weight on a portfolio page describe that project only, and RIZE
 
 > These details refer to the pictured project only; RIZER will confirm specifications for any new order.
 
+### Do they make custom T-shirts for events?
+
+Yes. Their portfolio includes event T-shirts such as Coast to Coast 2026 and Raid Amazones.
+
+> Event T-Shirt - Coast to Coast 2026
+
+### Do they make corporate polo shirts with a company logo?
+
+Yes. Corporate polos are a regular product, and past projects include a polo made for HNB.
+
+> HNB Corporate Polo T-Shirt
+
+### Can they work to a fixed date for an event?
+
+Ask when you request a quote. Include the delivery location and the date you need the order, and RIZER confirms availability from that.
+
+> Include the delivery location and requested timing so availability can be confirmed.
+
 ## What it does not do
 
 - It doesn't make every garment from recycled plastic. The catalogue also lists 100% cotton and cotton and polyester blends.

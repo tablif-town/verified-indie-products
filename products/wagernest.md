@@ -30,6 +30,24 @@ Upgrading to Starter unlocks full bet detail pages, public bettor identities, wa
 
 > Starter unlocks complete personal monitoring, simple alerts and the bounded read-only API.
 
+### Is WagerNest a sportsbook where I can bet?
+
+No. It is a read-only research tool that reads connected betting data sources, and it does not take or place bets.
+
+> Read-only sports betting intelligence across connected data sources
+
+### Do I have to connect my bookmaker account?
+
+No. The founder confirms WagerNest does not link to bookmaker accounts at all.
+
+> Can you confirm that WagerNest does not support any direct bet execution or bookmaker account linking?
+
+### Does it match the same bettor across different sportsbooks?
+
+No. The founder confirms bettor identities from different source platforms are never linked together as one real person.
+
+> Is it correct that bettor identities across different source platforms are never linked as unique real-world individuals?
+
 ## What it does not do
 
 - It doesn't automate bets, guarantee wagering outcomes, or automatically prove wrongdoing.

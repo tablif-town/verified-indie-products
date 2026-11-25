@@ -78,6 +78,24 @@ No. Enabled interactions are processed locally on your Mac, and the developers d
 
 > We do not receive app-usage analytics, interaction history or diagnostics from the app.
 
+### Will the trackpad haptics work on an Intel Mac?
+
+No. Haptic and Material feedback need Apple silicon, so an Intel Mac only gets the click sound and the keyboard sound.
+
+> Apple silicon for verified haptic and Material feedback; independent Click and Keyboard sound also support Intel
+
+### Does it work with an external Magic Trackpad?
+
+Yes, with the current USB-C Magic Trackpad. Other trackpads are checked by the app on your Mac, and the haptic controls only switch on if the device passes.
+
+> Current USB-C Magic Trackpad; other trackpads are checked locally
+
+### Will I feel haptics when I type on the keyboard?
+
+No. Keyboard feedback is sound only, and that keyboard sound comes with the full license.
+
+> keyboard feedback is audio only
+
 ## What it does not do
 
 - It doesn't stay activated offline indefinitely beyond 30 days without periodic verification.

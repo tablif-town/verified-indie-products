@@ -60,6 +60,24 @@ Yes. You can ask about the outfit you are looking at and get practical guidance 
 
 > Ask context-aware questions about the specific outfit and receive practical guidance.
 
+### Will the try-on keep my face and pose?
+
+It tries to. The system aims to preserve the person's identity, pose and general appearance, though results vary with the photo.
+
+> The system aims to preserve the person’s identity, pose and general appearance.
+
+### Which outfit styles can I pick?
+
+Several. The style list includes jumpsuit, bodycon dress, co-ord set and maxi dress, and the home page also shows midi, mini and kurti styles.
+
+> Jumpsuit Bodycon Dress Co-ord Set Maxi Dress
+
+### How do I get a better try-on result?
+
+Use a well-lit photo where your face and body are visible, and keep hands, bags and hair away from the clothing area.
+
+> Keep hands, bags, hair and other objects from covering important body or garment areas.
+
 ## What it does not do
 
 - It doesn't guarantee the real garment will match the preview. Color, fit, drape and construction can all come out differently.
@@ -82,6 +100,10 @@ Yes. You can ask about the outfit you are looking at and get practical guidance 
 
 - [How to explain the dress you want to your tailor](https://answers.delivery/fashion-try-on-ai/how-to-explain-a-dress-design-to-a-tailor)
 - [How to preview fabric pattern as a finished outfit](https://answers.delivery/fashion-try-on-ai/how-to-preview-fabric-as-a-finished-outfit)
+
+## Raced against well-known names
+
+- [FASHN vs Botika vs Doji for turning a fabric or print into an outfit and seeing it on a person, and the dark horse](https://darkhorsepick.com/fashn-vs-botika-vs-doji-for-designing-outfits-from-fabric)
 
 ---
 

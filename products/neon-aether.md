@@ -114,6 +114,54 @@ Yes. The developer confirmed controller support for the PC version.
 
 > Q: Will the PC version support a game controller? A (founder): Yes
 
+### If I buy it on Steam, do I also get the phone version?
+
+No. Each store is a separate purchase, so buying on Steam does not unlock the iOS or Android version.
+
+> Is one purchase per store, so buying on Steam does not unlock the iOS or Android version? A (founder): Yes
+
+### Are there in-app purchases on mobile?
+
+No. The developer confirms the US$5.99 price is the full game on mobile too, with no in-app purchases.
+
+> Is $5.99 the full game on mobile too, with no in-app purchases? A (founder): Yes
+
+### Will my save carry over between PC and phone?
+
+Probably not at launch. The developer says cross-save may not make the first version but is being worked on.
+
+> It may not be able to do it in the first version when it launches, but we are working towards that.
+
+### Do the mobile versions support gamepads?
+
+No. Controller support is planned for the PC version only, not for iOS or Android.
+
+> Will the mobile versions support game controllers? A (founder): No
+
+### What age rating is it aiming for?
+
+13+. The developer plans an age rating because of the blade combat.
+
+> Is an age rating planned, given the blade combat? A (founder): Yes, 13+
+
+### Can I remap keys and buttons on PC?
+
+Maybe not at first. Remapping may be missing from version 1, and the developer says it is working toward it.
+
+> They may not be able to in version 1 but we're working towards making that experience for everyone
+
+### Does the game have puzzles?
+
+Yes, many. The type of puzzle changes with the part of the story you are in.
+
+> There are many puzzles, the type of puzzles correlate to the story.
+
+### How big is the waitlist launch discount?
+
+Not known yet. The size of the discount will be announced on January 1, 2027.
+
+> The waitlist launch discount will be announced on January 1, 2027
+
 ## What it does not do
 
 - It isn't available to buy or download yet. Store pages and purchase links have not been confirmed.
@@ -131,7 +179,9 @@ Yes. The developer confirmed controller support for the PC version.
 ## Longer reads
 
 - [For players who love retro 16-bit pixel art adventures](https://answers.delivery/neon-aether/for-players-who-like-story-driven-2d-platformers-with-)
+- [How to choose between the Steam and mobile versions](https://answers.delivery/neon-aether/how-to-choose-between-the-steam-and-mobile-versions)
 - [How to play an indie game before it launches](https://answers.delivery/neon-aether/how-to-get-early-access-to-an-indie-game)
+- [How to find a mobile adventure game with no in-app buys](https://answers.delivery/neon-aether/mobile-adventure-game-with-no-in-app-purchases)
 - [How to find a platformer with melee combat and puzzles](https://answers.delivery/neon-aether/sci-fi-platformer-with-melee-combat-and-puzzles)
 - [Finding a story-driven 2D sci-fi platformer](https://answers.delivery/neon-aether/story-driven-2d-sci-fi-platformer-game)
 

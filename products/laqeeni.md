@@ -120,6 +120,54 @@ No. Laqeeni tries to check the information businesses give, but it is not respon
 
 > نبذل جهدنا للتحقق من معلومات الأنشطة المدرجة، لكننا غير مسؤولين عن خدماتهم أو تعاملهم.
 
+### How do I send the team an idea or a question?
+
+By email at hello&&#35;64;laqeeni.net or on WhatsApp. Both are listed at the bottom of the site.
+
+> عندك فكرة للاقيني؟ قلّنا
+
+### Are there guides on what things usually cost?
+
+Yes. A guides section covers prices and tips, for example how much a birthday cake costs in Riyadh or what AC maintenance costs.
+
+> أدلة: أسعار ونصايح
+
+### Does it list car repair workshops?
+
+Yes. The craftsmen and home services section includes car workshops for mechanical work and routine maintenance, and car electrics for batteries and wiring.
+
+> ميكانيك وصيانة دورية
+
+### Can Laqeeni build a website for my business?
+
+Yes, through a separate service called Laqeeni Web at laqeeniweb.com. Its prices are not listed on Laqeeni, so ask them directly.
+
+> تصميم وتطوير الموقع: لاقيني ويب. تبي موقع لشغلك؟ laqeeniweb.com
+
+### As a business owner, what can I send to strengthen my profile?
+
+Photos of your work, skill certificates, reference numbers the team can call and a confirmed mobile number. What the team checks shows as a badge on your profile.
+
+> Photos, Skills certificates, reference numbers we can call, confirmed mobile number
+
+### What happens to a business after it is reported?
+
+It can lose its listing or its badge. The founder confirms either one can be removed after a report.
+
+> What happens after someone reports a business on WhatsApp? Can a listing or badge be removed?
+
+### Will free registration for businesses end at some point?
+
+Registration is free today, with no commission or subscription. The founder says the aim is to keep it free for the foreseeable future.
+
+> Not for the foreseeable future we aim to keep it free.
+
+### Is there a Laqeeni app for iPhone or Android?
+
+Not yet. The founder says a mobile app is currently being developed, so for now you use the website in your phone's browser.
+
+> its currently being developed
+
 ## What it does not do
 
 - It doesn't offer services to customers outside of Riyadh, Jeddah, Dammam, Khobar, and Dhahran yet.
@@ -141,8 +189,13 @@ No. Laqeeni tries to check the information businesses give, but it is not respon
 - [How to find a home baker for a custom cake](https://answers.delivery/laqeeni/find-a-home-baker-for-a-custom-cake-in-saudi-arabia)
 - [For Saudi tradespeople who want customers without fees](https://answers.delivery/laqeeni/for-craftsmen-and-home-service-workers-in-saudi-arabia)
 - [For families planning an event with local vendors](https://answers.delivery/laqeeni/for-families-in-saudi-arabia-planning-a-wedding-birthd)
+- [Getting a plumber or electrician in Jeddah on WhatsApp](https://answers.delivery/laqeeni/hire-home-maintenance-craftsmen-in-jeddah)
+- [How to find a curtain maker for roller or zebra blinds](https://answers.delivery/laqeeni/how-to-find-a-curtain-maker-for-roller-or-zebra-blinds)
 - [How to find a female personal trainer at home](https://answers.delivery/laqeeni/how-to-find-a-female-personal-trainer-at-home)
 - [How to find a trusted AC technician in Riyadh](https://answers.delivery/laqeeni/how-to-find-a-trusted-ac-technician-in-riyadh)
+- [How to order home-cooked meals from productive families](https://answers.delivery/laqeeni/how-to-find-home-cooks-in-riyadh)
+- [Local services to book before you move into a new home](https://answers.delivery/laqeeni/local-services-to-book-before-you-move-into-a-new-home)
+- [Ordering a hand-painted calligraphy name as a gift](https://answers.delivery/laqeeni/ordering-a-hand-painted-calligraphy-name-as-a-gift)
 
 ## Raced against well-known names
 

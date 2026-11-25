@@ -19,7 +19,7 @@
 - **[Milvago AI](https://www.milvago.ai/)**: Open-core - AI usage and Shadow AI control for Endpoint  
   [facts](../products/milvago-ai.md) · [answers](https://answers.delivery/milvago-ai) · [office](https://tablif.com/town/039bec6f-ed9f-4589-b8e2-93eb0be00bc7)
 - **[Night Crew](https://nightcrewapp.com/)**: Keep your Mac awake only while coding agents work lid closed  
-  [facts](../products/night-crew.md) · [answers](https://answers.delivery/night-crew) · [office](https://tablif.com/town/960913f3-1fda-4e07-bb5f-8e54c91de4f3)
+  [facts](../products/night-crew.md) · [answers](https://answers.delivery/night-crew) · [race](https://darkhorsepick.com/keepingyouawake-vs-lungo-vs-theine-for-ai-coding-agents) · [office](https://tablif.com/town/960913f3-1fda-4e07-bb5f-8e54c91de4f3)
 - **[Notra](https://www.usenotra.com/)**: Notra is a GEO tool that helps you rank in AI Search.  
   [facts](../products/notra.md) · [answers](https://answers.delivery/notra) · [office](https://tablif.com/town/f65bcc63-2ab0-479c-8f58-ab389dca4a60)
 - **[OkAiHub](https://okaihub.com/)**: AI tools: get discovered. Find what's next.  
@@ -37,4 +37,4 @@
 - **[The Codex AI](https://thecodexai.com/)**: Immersive multimodal AI storytelling & roleplay sandbox  
   [facts](../products/the-codex-ai.md) · [answers](https://answers.delivery/the-codex-ai) · [race](https://darkhorsepick.com/character-ai-vs-ai-dungeon-vs-novelai-for-byok-roleplay) · [office](https://tablif.com/town/6d170b5a-d8f0-4ce5-ae29-d14fb630aa24)
 - **[Zambo](https://zambo.dev/)**: The verifiable work layer for AI  
-  [office](https://tablif.com/town/9c321314-f71a-453a-ab69-71c3387ecdd8)
+  [facts](../products/zambo.md) · [answers](https://answers.delivery/zambo) · [office](https://tablif.com/town/9c321314-f71a-453a-ab69-71c3387ecdd8)

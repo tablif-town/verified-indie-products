@@ -126,6 +126,24 @@ No. Assay sets the agent up for you, and Starter goes live in 48 hours without c
 
 > Live in 48 hours\*, no code.
 
+### Can the agent call or answer numbers outside the US and Canada?
+
+No. It only places and takes calls in the US and Canada.
+
+> The agent only places and takes calls in the US and Canada.
+
+### Which CRMs does it sync with?
+
+HubSpot, Salesforce and Pipedrive, on Professional and Enterprise. Starter books into Google and Outlook calendars but has no CRM sync.
+
+> CRM (HubSpot, Salesforce, Pipedrive)
+
+### Can I cancel whenever I want?
+
+Yes. The three tiers are billed monthly and you can cancel any time.
+
+> Monthly. Cancel any time.
+
 ## What it does not do
 
 - It doesn't include automated inbound call answering on the Starter tier.

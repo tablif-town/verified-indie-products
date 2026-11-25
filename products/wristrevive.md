@@ -222,6 +222,54 @@ Not necessarily. Results depend on the watch, how you use it and the quality of 
 
 > Results depend on the watch, your usage and the quality of the available observations.
 
+### How much does WristRevive Pro cost?
+
+$1.99, paid once, on the US Google Play listing according to the developer. It adds the Idle Drain Test and Revive Scans beyond your first free one.
+
+> $1.99 one-time for WristRevive Pro, verified on the live US Google Play listing.
+
+### Does the watch have to be on my wrist during a Revive Scan?
+
+No. The developer says no wear requirement is documented, so a scan can run on a nightstand as long as the watch stays off the charger.
+
+> No worn requirement is documented in the app's docs
+
+### Which test should I use to check drain overnight?
+
+The Idle Drain Test. The developer names it as the dedicated overnight tool, and it needs Pro.
+
+> The dedicated overnight tool is the Idle Drain Test.
+
+### Does the phone keep more battery history than the watch?
+
+Yes. The watch keeps a bounded history, and the phone companion keeps a larger timeline that mirrors the samples the watch has retained.
+
+> the phone keeps a larger timeline as a durable mirror of the watch's retained samples.
+
+### Can I use my watch normally during an Idle Drain Test?
+
+Try not to. The test measures a one-hour low-interaction baseline, then a matched one-hour comparison, so heavy use in either hour makes the two less comparable.
+
+> Measure a one-hour low-interaction baseline, change one setting or behavior, then run a matched one-hour comparison.
+
+### Is WristRevive a one-tap battery saver?
+
+No. It records how your battery behaves and helps you decide what to test next, instead of flipping settings for you.
+
+> Instead of promising a one-tap battery fix, it helps you see what the evidence supports and what to test next.
+
+### What happens if the watch sits on the charger during a whole scan?
+
+It will likely end inconclusive. Charging time does not count as valid observation, so an all-night run on the charger leaves too little evidence.
+
+> an all-night on-charge run would likely end inconclusive (insufficient valid evidence)
+
+### Is there a cap on Revive Scans once I buy Pro?
+
+No. The developer says Pro unlocks unlimited Revive Scans along with the Idle Drain Test.
+
+> It unlocks the Idle Drain Test and unlimited Revive Scans; the first completed Revive Scan is free.
+
 ## What it does not do
 
 - It doesn't repair an ageing battery.
@@ -253,9 +301,13 @@ Not necessarily. Results depend on the watch, how you use it and the quality of 
 - [How to get a conclusive result from a battery scan](https://answers.delivery/wristrevive/how-to-get-a-conclusive-result-from-a-battery-scan)
 - [How to review your watch battery history on a phone](https://answers.delivery/wristrevive/how-to-review-your-watch-battery-history-on-a-phone)
 - [How to tell a worn watch battery from a settings problem](https://answers.delivery/wristrevive/is-my-smartwatch-battery-worn-out-or-is-it-my-settings)
+- [Check the evidence before you factory reset your watch](https://answers.delivery/wristrevive/should-i-factory-reset-my-smartwatch-to-fix-battery-drain)
 - [How to check if your watch loses battery overnight](https://answers.delivery/wristrevive/smartwatch-battery-drains-overnight)
+- [Testing whether a busy group chat costs watch battery](https://answers.delivery/wristrevive/testing-whether-a-busy-group-chat-costs-watch-battery)
+- [Watch battery checks to do before a long trip](https://answers.delivery/wristrevive/watch-battery-checks-to-do-before-a-long-trip)
 - [How to tell if a watch update hurt your battery](https://answers.delivery/wristrevive/wear-os-watch-battery-draining-fast-after-update)
 - [How to find out why your Wear OS watch battery drains so fast](https://answers.delivery/wristrevive/wear-os-watch-losing-charge-fast)
+- [How to learn what normal drain looks like on your watch](https://answers.delivery/wristrevive/what-is-normal-battery-drain-for-my-wear-os-watch)
 - [How to find the hours when your watch drains fastest](https://answers.delivery/wristrevive/what-time-of-day-does-my-watch-battery-drain-fastest)
 - [How to test if a setting really saves watch battery](https://answers.delivery/wristrevive/why-is-my-smartwatch-battery-draining-so-fast)
 

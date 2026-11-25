@@ -1,6 +1,6 @@
 # Industry
 
-23 verified products. Part of [Verified indie products](../README.md).
+24 verified products. Part of [Verified indie products](../README.md).
 
 - **[3DJ.app](https://www.3dj.app/)**: AI-assisted CAD and 3D creation for makers and agents  
   [facts](../products/3djapp.md) · [answers](https://answers.delivery/3djapp) · [office](https://tablif.com/town/33a80ef5-8ffb-4fef-a184-2d701a523653)
@@ -15,9 +15,11 @@
 - **[Facebook Marketplace](https://facebook-usa-marketplace.blogspot.com/)**: Search Products by Location on Facebook Marketplace  
   [facts](../products/facebook-marketplace.md) · [answers](https://answers.delivery/facebook-marketplace) · [office](https://tablif.com/town/3993c38d-5e0c-4994-89a0-308ea886539c)
 - **[Fashion Try-On AI](https://fashiontryon.vishnexa.com/)**: Turn fabric into outfits and virtually try them on with AI  
-  [facts](../products/fashion-try-on-ai.md) · [answers](https://answers.delivery/fashion-try-on-ai) · [office](https://tablif.com/town/48ec248d-0050-4a7c-9cbf-781004b8238a)
+  [facts](../products/fashion-try-on-ai.md) · [answers](https://answers.delivery/fashion-try-on-ai) · [race](https://darkhorsepick.com/fashn-vs-botika-vs-doji-for-designing-outfits-from-fabric) · [office](https://tablif.com/town/48ec248d-0050-4a7c-9cbf-781004b8238a)
 - **[Hoppvia](https://hoppvia.com/)**: Launch your own branded taxi platform  
   [facts](../products/hoppvia.md) · [answers](https://answers.delivery/hoppvia) · [office](https://tablif.com/town/c7069c0e-20be-407b-a174-4243af8c6474)
+- **[Image Describer](https://image-describer.app)**  
+  [facts](../products/image-describer.md) · [answers](https://answers.delivery/image-describer) · [office](https://tablif.com/town/a17405c5-e72c-4a9c-aa46-ecd00e82db4d)
 - **[InviteVia](https://inviteviaapp.com/)**: Modern, interactive digital invitations for any event  
   [facts](../products/invitevia.md) · [answers](https://answers.delivery/invitevia) · [office](https://tablif.com/town/f93a920a-a545-4149-a0a0-b9bc292150ec)
 - **[Laqeeni](https://laqeeni.net/)**: لاقيني دليل جديد لحرفيي الرياض  
@@ -47,4 +49,4 @@
 - **[SuperBox S8 Max](https://mysuperboxtvbox.com/product/superbox-s8-max/)**: A powerful Android TV box for everyday home entertainment  
   [office](https://tablif.com/town/2927ce49-1ffe-4510-9af2-47bd41b2279b)
 - **[Towami](https://towami.com)**  
-  [facts](../products/towami.md) · [answers](https://answers.delivery/towami) · [office](https://tablif.com/town/d06b1a85-bab7-4297-8ef5-692708682cca)
+  [facts](../products/towami.md) · [answers](https://answers.delivery/towami) · [race](https://darkhorsepick.com/tiendanube-vs-jumpseller-vs-mercado-libre-for-store-plus-marketplace) · [office](https://tablif.com/town/d06b1a85-bab7-4297-8ef5-692708682cca)

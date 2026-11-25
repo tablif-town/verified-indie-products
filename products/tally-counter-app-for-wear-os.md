@@ -222,6 +222,54 @@ Very little. The main count and its controls sit on the watch screen, so you can
 
 > The clean watch-first interface keeps the main count and controls easy to reach.
 
+### Does every tap vibrate, or only some?
+
+Every increment gives a light haptic. Crossing a target gives one stronger buzz, so the two feel different on your wrist.
+
+> every increment already gives a light haptic
+
+### If I move to a new watch, do my counts come with me?
+
+No. Counts live only on the watch they were made on, and the founder says app backups are disabled, so nothing carries over.
+
+> They live only on the watch. There is no export or backup
+
+### Can two people add to the same count from their own watches?
+
+No. Counts stay on the watch they were made on, and the developer says the app has no network code, so nothing syncs between watches.
+
+> data stays local, app backups are disabled, and no export or network code exists
+
+### Do I still get the target buzz if a big step jumps past the target?
+
+Yes, going by the developer's description. The stronger buzz comes the moment the count crosses the target, so overshooting it with a step of 10 still triggers it.
+
+> one distinct, stronger haptic buzz the moment the count crosses the target
+
+### What is the difference between resetting one counter group and resetting all?
+
+Resetting one group keeps its history, adds an entry and can be undone. Reset all wipes the history as well.
+
+> Reset-all clears history too
+
+### How many history entries does it keep?
+
+Up to 200 entries, according to the founder. Reset all clears that history.
+
+> capped at 200 entries
+
+### Does the app send my counts anywhere?
+
+No. The founder says data stays local and the app has no export or network code at all.
+
+> data stays local, app backups are disabled, and no export or network code exists
+
+### Do I need a companion app on my phone?
+
+No. It is a standalone Wear OS app, and it runs without a phone connection.
+
+> Tally Counter is a standalone Wear OS counter
+
 ## What it does not do
 
 - It doesn't count anything automatically. Every count is a tap or a turn of the crown or bezel.
@@ -242,21 +290,26 @@ Very little. The main count and its controls sit on the watch screen, so you can
 
 ## Longer reads
 
+- [A daily habit tally template for your watch](https://answers.delivery/tally-counter-app-for-wear-os/a-daily-habit-tally-template-for-your-watch)
 - [A setup checklist for counters on your Wear OS watch](https://answers.delivery/tally-counter-app-for-wear-os/a-setup-checklist-for-counters-on-your-wear-os-watch)
 - [A template for planning your eight counter slots](https://answers.delivery/tally-counter-app-for-wear-os/a-template-for-planning-your-eight-counter-slots)
 - [How to keep count of birds during a field count](https://answers.delivery/tally-counter-app-for-wear-os/bird-count-app-on-watch)
 - [How to count boxed stock by the case on your watch](https://answers.delivery/tally-counter-app-for-wear-os/click-counter-for-inventory-and-headcount)
 - [How to keep track of swim sets and lengths together](https://answers.delivery/tally-counter-app-for-wear-os/count-swimming-laps-on-smartwatch)
+- [Counting rejects on a shift when phones stay in lockers](https://answers.delivery/tally-counter-app-for-wear-os/counting-rejects-on-a-shift-when-phones-stay-in-lockers)
 - [How to count prayers on your watch without a phone](https://answers.delivery/tally-counter-app-for-wear-os/digital-tasbih-counter-for-smartwatch)
 - [How to add a tally counter Tile to your Wear OS watch](https://answers.delivery/tally-counter-app-for-wear-os/how-to-add-a-tally-counter-tile-to-your-wear-os-watch)
 - [How to count drill reps during a coaching session](https://answers.delivery/tally-counter-app-for-wear-os/how-to-count-drill-reps-during-a-coaching-session)
 - [How to stop losing count of your laps in the pool](https://answers.delivery/tally-counter-app-for-wear-os/how-to-count-swimming-laps-on-smartwatch)
+- [How to keep a count going with gloves on](https://answers.delivery/tally-counter-app-for-wear-os/how-to-keep-a-count-going-with-gloves-on)
 - [How to keep score of a game on your watch](https://answers.delivery/tally-counter-app-for-wear-os/how-to-keep-score-of-a-game-on-your-watch)
 - [How to do a quick stock count with your hands full](https://answers.delivery/tally-counter-app-for-wear-os/inventory-counter-app-for-wear-os)
 - [Keeping several counts going at a community event](https://answers.delivery/tally-counter-app-for-wear-os/keeping-several-counts-going-at-a-community-event)
 - [Keeping track of knitting rows and pattern repeats](https://answers.delivery/tally-counter-app-for-wear-os/keeping-track-of-knitting-rows-and-pattern-repeats)
+- [How to stop stray taps from changing your count](https://answers.delivery/tally-counter-app-for-wear-os/stop-accidental-taps-changing-watch-counter)
 - [How to count people coming through a door](https://answers.delivery/tally-counter-app-for-wear-os/tally-counter-for-wear-os-watch)
 - [How to keep a tally without looking at the screen](https://answers.delivery/tally-counter-app-for-wear-os/tally-counter-you-can-use-without-looking)
+- [How to know the moment you reach a target count](https://answers.delivery/tally-counter-app-for-wear-os/watch-counter-that-buzzes-at-a-target-number)
 - [How to count gym reps and sets on your Wear OS watch](https://answers.delivery/tally-counter-app-for-wear-os/wear-os-counter-app-for-gym-reps)
 
 ---

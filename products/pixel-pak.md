@@ -96,6 +96,24 @@ Yes, and it is free. Every layer and frame switches at once, shading is kept, an
 
 > Turn a whole drawing, every layer and frame, into Game Boy green, PICO-8, NES, Commodore 64, ZX Spectrum and more.
 
+### Does it run on iPhone and iPad?
+
+Yes. Pixel Pak runs in the browser on iPhone, iPad, Android and PC, and on iPhone and iPad saved project files go to the Files app.
+
+> on iPhone, iPad and Android it goes to the browser's normal Downloads folder (Files app or Downloads)
+
+### Which browsers does it work in?
+
+Current versions of Chrome, Edge and most other modern browsers, on phone, tablet or PC.
+
+> It runs in current versions of Chrome, Edge and most other modern browsers on phone, tablet and PC
+
+### Can I swap a drawing to my own palette instead of a retro one?
+
+Yes. Next to retro palettes like Game Boy or Master System you can use your own, and a before-and-after preview shows the change first.
+
+> Swap a whole drawing to a retro palette like Game Boy or Master System, or to your own, with a before-and-after preview.
+
 ## What it does not do
 
 - It doesn't let you save normal maps on the free version; you can only preview them.

@@ -168,6 +168,54 @@ On Discord or by email. The Discord community takes questions and tips, and supp
 
 > For private or account matters, or if you prefer email, write to support&&#35;64;stereolift.live.
 
+### Does it run on a Windows PC?
+
+Yes. Windows and Linux are the two PC systems listed, and the headset side is a Meta Quest.
+
+> Windows & Linux
+
+### Can I change how the picture looks in the headset?
+
+Yes. The headset recordings on the home page show a visual settings panel and a way to toggle effects on and off.
+
+> Toggle effects
+
+### Can I see what it looks like before I register?
+
+Yes. The home page has short recordings captured inside a Meta Quest, from moving the screen and driving the desktop to the visual settings.
+
+> From desktop control to the finishing touches, explore the app through recordings captured in Meta Quest.
+
+### Can I check how well the stream is running?
+
+Yes. One of the recordings captured in the Quest shows a performance view you can open from inside the headset.
+
+> Performance view
+
+### What should I leave out when I ask for help in public?
+
+Sign-in links, codes and personal details. Keep those out of public posts and send anything private by email.
+
+> Keep sign-in links, codes and personal details out of public posts.
+
+### How is it related to StereoLift?
+
+It is the live version. StereoLift converts video to 3D, and StereoLift Live brings that same 3D conversion to your desktop, streamed live to a Quest.
+
+> StereoLift Live brings StereoLift’s 3D conversion to your desktop, streamed live to Meta Quest.
+
+### Are diagnostics optional?
+
+Yes. Diagnostics are listed as optional, next to account access, linked headsets and support. A support bundle is only saved when you pick it from the tray menu and confirm.
+
+> Cloud services manage account access, linked headsets, support, and optional diagnostics.
+
+### Is there a setup guide for the first connection?
+
+Yes. The support page has a setup guide that covers the requirements, linking your account and making your first connection.
+
+> Requirements, account linking and your first connection.
+
 ## What it does not do
 
 - It doesn't provide real-time interaction without delay in 3D viewing mode.
@@ -184,17 +232,21 @@ On Discord or by email. The Discord community takes questions and tips, and supp
 
 ## Longer reads
 
+- [How to get 3D desktop viewing from an 8GB graphics card](https://answers.delivery/stereolift-live/3d-desktop-on-quest-with-an-8gb-graphics-card)
 - [Checklist before your first 3D session on a Quest](https://answers.delivery/stereolift-live/checklist-before-your-first-3d-session-on-a-quest)
 - [How to choose between live 3D and converting a video](https://answers.delivery/stereolift-live/convert-pc-screen-stream-to-3d-vr)
+- [Deciding whether live 3D is worth paying for later](https://answers.delivery/stereolift-live/deciding-whether-live-3d-is-worth-paying-for-later)
 - [For Ubuntu users who want their desktop in 3D on Quest](https://answers.delivery/stereolift-live/for-linux-desktop-users-on-ubuntu-who-want-live-3d-scr)
 - [For Quest owners with an NVIDIA gaming PC](https://answers.delivery/stereolift-live/for-pc-users-with-a-meta-quest-headset-who-want-to-vie)
 - [How to convert your PC desktop to 3D on Meta Quest](https://answers.delivery/stereolift-live/how-to-convert-pc-desktop-to-3d-on-meta-quest)
+- [How to link your Quest headset to your account and PC](https://answers.delivery/stereolift-live/how-to-link-your-quest-headset-to-your-account-and-pc)
 - [How to report a PC to Quest streaming problem](https://answers.delivery/stereolift-live/how-to-report-a-pc-to-quest-streaming-problem)
 - [How to switch between 2D control and 3D viewing](https://answers.delivery/stereolift-live/how-to-switch-between-2d-control-and-3d-viewing)
 - [How to watch flat PC videos with 3D depth on a Quest](https://answers.delivery/stereolift-live/how-to-view-pc-desktop-in-3d-on-meta-quest)
 - [Seeing old holiday photos with depth in a headset](https://answers.delivery/stereolift-live/seeing-old-holiday-photos-with-depth-in-a-headset)
 - [How to stream your PC to a Quest without the cloud](https://answers.delivery/stereolift-live/stream-pc-desktop-to-meta-quest-over-local-network)
 - [How to use a large virtual PC screen in your Quest](https://answers.delivery/stereolift-live/view-pc-screen-in-3d-vr-headset)
+- [When the living room TV is taken for the evening](https://answers.delivery/stereolift-live/when-the-living-room-tv-is-taken-for-the-evening)
 
 ---
 

@@ -222,6 +222,54 @@ Through Google Play, as a one-time purchase.
 
 > Pro is a one-time purchase handled through Google Play.
 
+### How much does Pro cost?
+
+$1.99 in the US, paid once. The founder says it is a lifetime upgrade with no subscription.
+
+> $1.99 one-time for PressDeck Pro (lifetime, no subscription)
+
+### Is there a cap on shortcuts once I have Pro?
+
+No numeric cap. In practice there are six gesture slots: a double press and a long press on each volume button, a two-button chord and a verified device-button press.
+
+> In practice there are 6 gesture slots
+
+### Can I press both volume buttons together as a shortcut?
+
+Yes. The founder lists a two-button chord as one of the gesture slots, next to the double and long presses. As with every gesture, the compatibility test shows whether your phone delivers it.
+
+> a two-button chord, and a verified device-button press
+
+### Which settings screens can a shortcut open?
+
+Six, all with Pro: Accessibility, Bluetooth, Wi-Fi, Sound, Display and Battery saver. They are the official Android Settings screens, not hidden shortcuts.
+
+> Exactly six, all official Android Settings actions (Pro-only): Accessibility, Bluetooth, Wi-Fi, Sound, Display, and Battery saver.
+
+### What if a settings screen I want is missing on my phone?
+
+Then that shortcut is simply unavailable. The founder says it is never swapped for a hidden alternative.
+
+> A destination that does not resolve on the device is unavailable, never replaced with a hidden intent.
+
+### Does the camera shortcut get around the lock screen?
+
+No. It sends an ordinary camera request with no lock-screen bypass. Whether a press reaches the app while the phone is locked is checked per device by the compatibility test.
+
+> the app fires an ordinary camera intent with no lock-screen bypass
+
+### Can I use a double press on the AI or Bixby button?
+
+No. When PressDeck can verify a dedicated button on your phone, it offers a single-press mapping for it. Double and long presses are for the volume keys.
+
+> When supported, PressDeck can verify the button on your device and offer a single-press mapping.
+
+### Which actions can I use without paying?
+
+Play or pause, app launch, camera, flashlight and Android's screenshot action, on one active shortcut. Track skipping and the settings shortcuts need Pro.
+
+> Free includes one active shortcut plus actions such as Play / Pause, app launch, camera launch, flashlight toggle, and Android’s screenshot action.
+
 ## What it does not do
 
 - It doesn't remap the power button.
@@ -245,9 +293,11 @@ Through Google Play, as a one-time purchase.
 - [A button map template for your Android phone](https://answers.delivery/pressdeck/a-button-map-template-for-your-android-phone)
 - [A setup checklist for your first button shortcut](https://answers.delivery/pressdeck/a-setup-checklist-for-your-first-button-shortcut)
 - [How to remap buttons without an app reading your screen](https://answers.delivery/pressdeck/button-remapper-that-does-not-read-screen)
+- [How to find a button remapper with no ads or sign-up](https://answers.delivery/pressdeck/button-remapper-without-ads-or-account-android)
 - [How to pause music with a button on your Android phone](https://answers.delivery/pressdeck/control-music-with-volume-buttons-android)
 - [How to take a screenshot one-handed on Android](https://answers.delivery/pressdeck/hardware-button-screenshot-shortcut-android)
 - [How to check which phone buttons can be remapped](https://answers.delivery/pressdeck/how-to-check-which-phone-buttons-can-be-remapped)
+- [How to choose the one shortcut to keep on the free plan](https://answers.delivery/pressdeck/how-to-choose-the-one-shortcut-to-keep-on-the-free-plan)
 - [How to open an app with a double press of volume up](https://answers.delivery/pressdeck/how-to-open-an-app-with-a-double-press-of-volume-up)
 - [How to set up more than one volume button shortcut](https://answers.delivery/pressdeck/how-to-set-up-more-than-one-volume-button-shortcut)
 - [How to open a settings screen with a phone button](https://answers.delivery/pressdeck/open-android-settings-with-volume-button)
@@ -258,6 +308,9 @@ Through Google Play, as a one-time purchase.
 - [How to turn on your phone flashlight without looking](https://answers.delivery/pressdeck/turn-on-flashlight-with-volume-button-android)
 - [Using phone buttons when your hands are busy cooking](https://answers.delivery/pressdeck/using-phone-buttons-when-your-hands-are-busy-cooking)
 - [Using phone shortcuts while wearing winter gloves](https://answers.delivery/pressdeck/using-phone-shortcuts-while-wearing-winter-gloves)
+- [How to make sense of a shortcut that only works sometimes](https://answers.delivery/pressdeck/volume-button-shortcut-only-works-sometimes-android)
+- [Walking the dog before sunrise with one free hand](https://answers.delivery/pressdeck/walking-the-dog-before-sunrise-with-one-free-hand)
+- [What to recheck on your button shortcuts after an update](https://answers.delivery/pressdeck/what-to-recheck-on-your-button-shortcuts-after-an-update)
 
 ---
 

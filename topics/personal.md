@@ -1,6 +1,6 @@
 # Personal
 
-39 verified products. Part of [Verified indie products](../README.md).
+40 verified products. Part of [Verified indie products](../README.md).
 
 - **[AION 2 Pets](https://aion2pets.org)**  
   [facts](../products/aion-2-pets.md) · [answers](https://answers.delivery/aion-2-pets) · [office](https://tablif.com/town/900df8b3-7236-4493-9511-c15d10874a54)
@@ -44,6 +44,8 @@
   [facts](../products/lockintown.md) · [answers](https://answers.delivery/lockintown) · [office](https://tablif.com/town/92e07f5d-7a78-4d0f-9c65-44fb82b9da86)
 - **[Manga Translator](https://mangatranslator.me/)**: AI manga translator that keeps page layout intact  
   [facts](../products/manga-translator.md) · [answers](https://answers.delivery/manga-translator) · [office](https://tablif.com/town/347c3c73-e06a-4588-a63d-cd2706e86013)
+- **[Mars Rally Championship](https://marsrallychampionship.com/)**: Free 3D rally racing on Mars, right in your browser  
+  [facts](../products/mars-rally-championship.md) · [answers](https://answers.delivery/mars-rally-championship) · [office](https://tablif.com/town/195b035d-bd14-45af-bd0b-fac7463736ae)
 - **[Meet Anvi](https://meetanvi.com/)**: Fun offline preschool learning  
   [facts](../products/meet-anvi.md) · [answers](https://answers.delivery/meet-anvi) · [office](https://tablif.com/town/6d114838-9071-4992-b04c-80ad4b1abe1c)
 - **[Neon Aether](https://neonaether.netlify.app/)**: A story-based sci-fi indie platformer game .  

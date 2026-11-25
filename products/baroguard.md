@@ -222,6 +222,54 @@ Not as a medical tool. You can watch pressure change, but the app is not made or
 
 > BaroGuard is not a certified weather station, weather forecast app, storm warning service, emergency alert service, medical tool, professional altimeter, certified variometer, or aviation instrument.
 
+### Are there in-app purchases or a subscription?
+
+No. The developer confirms BaroGuard is a one-time purchase with no in-app purchases.
+
+> Is BaroGuard a one-time 1.49 USD purchase with no in-app purchases?
+
+### Are pressure alerts switched on after I install it?
+
+No. Alerts are off by default, so nothing buzzes until you turn them on and pick your settings.
+
+> Default threshold 3 hPa, 3-hour trend window, 3-hour cooldown, alerts off by default.
+
+### How small can I set the alert threshold?
+
+Down to 0.5 hPa. There are presets of 1, 2, 3 and 5 hPa, and a custom value from 0.5 to 10 hPa in steps of 0.5.
+
+> Presets are 1/2/3/5 hPa, custom 0.5–10 hPa in 0.5 steps.
+
+### How long does BaroGuard wait before alerting again?
+
+Three hours by default, according to the developer. The cooldown is one of the settings, so one slow pressure drop can give you one buzz instead of several.
+
+> Default threshold 3 hPa, 3-hour trend window, 3-hour cooldown, alerts off by default.
+
+### What columns are in the CSV export?
+
+The stored uncalibrated pressure, the calibrated pressure with your offset applied, and the calibration offset in effect when you exported, all in hPa.
+
+> the CSV has filtered\_pressure\_hpa (stored, uncalibrated), calibrated\_pressure\_hpa (offset applied)
+
+### How does exported data leave my watch?
+
+Only when you start an export yourself and pick a system share target. Nothing is sent anywhere on its own.
+
+> CSV export occurs only when you start it and choose a system share target.
+
+### Does calibrating change the readings already stored?
+
+No. The stored values stay uncalibrated and the offset is applied on top, which is why the CSV carries both versions plus the offset.
+
+> filtered\_pressure\_hpa (stored, uncalibrated)
+
+### Can I see how much pressure changed over a few hours?
+
+Yes. The chart compares changes across time windows, and a watch-face complication can show the pressure delta.
+
+> Add pressure, trend, delta, gauge-style, or estimated-altitude data to supported complication slots.
+
 ## What it does not do
 
 - It doesn't work on watches without a built-in barometer.
@@ -245,19 +293,24 @@ Not as a medical tool. You can watch pressure change, but the app is not made or
 - [A weekly air pressure review you can do on your watch](https://answers.delivery/baroguard/a-weekly-air-pressure-review-you-can-do-on-your-watch)
 - [How to check air pressure without draining your watch](https://answers.delivery/baroguard/barometer-app-that-doesnt-drain-watch-battery)
 - [Barometer watch checklist before a day outdoors](https://answers.delivery/baroguard/barometer-watch-checklist-before-a-day-outdoors)
+- [Checks to run when a pressure reading looks wrong](https://answers.delivery/baroguard/checks-to-run-when-a-pressure-reading-looks-wrong)
 - [How to estimate altitude on your watch with no signal](https://answers.delivery/baroguard/estimate-altitude-without-gps-on-wear-os)
 - [How to calibrate a watch barometer to a known reading](https://answers.delivery/baroguard/how-to-calibrate-a-watch-barometer-to-a-known-reading)
 - [How to put air pressure on your watch face and Tile](https://answers.delivery/baroguard/how-to-put-air-pressure-on-your-watch-face-and-tile)
+- [How to read your watch barometer in inches of mercury](https://answers.delivery/baroguard/how-to-read-your-watch-barometer-in-inches-of-mercury)
 - [How to set up a barometer app on a new Wear OS watch](https://answers.delivery/baroguard/how-to-set-up-a-barometer-app-on-a-new-wear-os-watch)
 - [Keeping an eye on pressure during a cabin weekend](https://answers.delivery/baroguard/keeping-an-eye-on-pressure-during-a-cabin-weekend)
 - [How to keep a pressure log you can open in a spreadsheet](https://answers.delivery/baroguard/log-barometric-pressure-history-and-export-csv)
 - [How to see how fast you are climbing on a trail](https://answers.delivery/baroguard/measure-climb-rate-on-smartwatch)
 - [How to measure the height between two spots with a watch](https://answers.delivery/baroguard/measure-height-gained-from-a-starting-point-on-a-smartwatch)
+- [Measuring each climb during a hill repeat workout](https://answers.delivery/baroguard/measuring-each-climb-during-a-hill-repeat-workout)
 - [How to read air pressure without sharing your location](https://answers.delivery/baroguard/offline-barometer-app-without-location-tracking)
+- [How to stop pressure alerts from buzzing too often](https://answers.delivery/baroguard/pressure-change-alerts-going-off-too-often-on-watch)
 - [How to get an alert when air pressure drops fast](https://answers.delivery/baroguard/pressure-drop-alert-on-smartwatch)
 - [How to follow local air pressure without a weather app](https://answers.delivery/baroguard/track-atmospheric-pressure-on-wear-os)
 - [How to track air pressure trends from your Wear OS watch](https://answers.delivery/baroguard/track-barometric-pressure-on-wear-os)
 - [Watching air pressure from your wrist on a day sail](https://answers.delivery/baroguard/watching-air-pressure-from-your-wrist-on-a-day-sail)
+- [How to deal with altitude drift on a barometer watch](https://answers.delivery/baroguard/why-does-my-watch-altitude-change-when-im-not-moving)
 
 ---
 

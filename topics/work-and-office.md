@@ -1,6 +1,6 @@
 # Work and office
 
-21 verified products. Part of [Verified indie products](../README.md).
+22 verified products. Part of [Verified indie products](../README.md).
 
 - **[Ariftly](https://ariftly.io)**  
   [facts](../products/ariftly.md) · [answers](https://answers.delivery/ariftly) · [office](https://tablif.com/town/cdaea6e9-893f-48af-b0b0-520b6847a6ea)
@@ -20,6 +20,8 @@
   [facts](../products/fixmypdfs-free-online-pdf-editor.md) · [answers](https://answers.delivery/fixmypdfs-free-online-pdf-editor) · [office](https://tablif.com/town/1e16c673-9d35-4b2f-a382-9cb2a549ac7a)
 - **[FlickDeck](https://play.google.com/store/apps/details?id=com.quazmoz.flickdeck)**: Trigger webhooks and Home Assistant with a wrist flick  
   [facts](../products/flickdeck.md) · [answers](https://answers.delivery/flickdeck) · [office](https://tablif.com/town/48d709a7-1e8e-423c-84b1-0cfa5998ec93)
+- **[HostMyImg](https://hostmyimg.com/)**: Free Image Hosting to Upload and Share Images Online  
+  [facts](../products/hostmyimg.md) · [answers](https://answers.delivery/hostmyimg) · [office](https://tablif.com/town/9c47c466-54a6-4c52-9a0b-fe9f9bcc19b8)
 - **[InvoiceKit by RoohSites](https://invoice.roohsites.com/)**: Professional invoices. No signup. No subscription.  
   [facts](../products/invoicekit-by-roohsites.md) · [answers](https://answers.delivery/invoicekit-by-roohsites) · [office](https://tablif.com/town/45f795ef-1f4a-4f3a-a887-8386ed5d9dbd)
 - **[KDCI](https://kdci.co/)**: Great Teams, Delivered.  

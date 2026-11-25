@@ -24,9 +24,45 @@ $9, paid once, for up to 2 Macs, with future updates included. The price goes to
 
 > Night Crew costs $9, paid once, for up to 2 Macs, with future updates and features included.
 
+### Will it keep my agent running on battery with the lid closed?
+
+Only if you allow it. By default lid mode works on the charger, and on battery it stops at its own floor (30% by default, as low as 15%) or as soon as the Mac gets warm.
+
+> Allow battery and it stops at its own floor, 30% by default, or the moment your Mac gets warm
+
+### Can it see my prompts or my code?
+
+No. It keeps only event names and times, session IDs, project folder names and scheduled-run times, on your Mac, and never your prompts, code or chat text.
+
+> It never keeps your prompts, your code or chat text.
+
+### Can I undo the hooks it adds to my agents?
+
+Yes. Each settings file is backed up before any change, and one click with a confirm removes every hook, any time.
+
+> Remove every hook with one click and a confirm, any time.
+
+## What it does not do
+
+- It doesn't run on Intel Macs or on macOS versions before 14.
+
+  > Does Night Crew strictly require macOS 14+ on Apple silicon hardware? (Yes/No) A (founder): Yes
+
+- It doesn't have an iPhone companion app.
+
+  > Pick it if you want the iPhone companion or run an Intel Mac.
+
+- It doesn't keep working after 30 days offline until the licence checks in again.
+
+  > After 30 days offline, Night Crew pauses until your Mac checks in once.
+
 ## Longer reads
 
 - [How to close your MacBook while Claude Code is running](https://answers.delivery/night-crew/keep-macbook-awake-with-lid-closed-claude-code)
+
+## Raced against well-known names
+
+- [KeepingYouAwake vs Lungo vs Theine for keeping your Mac awake while AI coding agents work, and the dark horse](https://darkhorsepick.com/keepingyouawake-vs-lungo-vs-theine-for-ai-coding-agents)
 
 ---
 

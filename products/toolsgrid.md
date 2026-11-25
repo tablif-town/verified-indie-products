@@ -50,6 +50,8 @@ Roughly 50 to 100 MB, or about 100 to 300 pages, before the browser starts to sl
 
 ## Longer reads
 
+- [How to shrink JPG and PNG files without uploading them](https://answers.delivery/toolsgrid/compress-images-without-uploading-to-a-server)
+- [Job hunting with a cover letter for every application](https://answers.delivery/toolsgrid/for-job-seekers-who-need-a-resume-or-cover-letter-as-a)
 - [How to make a resume applicant tracking systems can read](https://answers.delivery/toolsgrid/free-ats-friendly-resume-builder-no-sign-up)
 - [How to merge PDF files without uploading them](https://answers.delivery/toolsgrid/merge-pdf-files-without-uploading-them)
 

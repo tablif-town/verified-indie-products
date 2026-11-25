@@ -213,6 +213,54 @@ No. Prices differ by country, so choose your country on the site to see them.
 
 > Prices differ depending on the country.
 
+### Does Towami take a cut of each sale?
+
+No. You pay a fixed subscription for your plan, and there is no percentage taken from your sales.
+
+> Towami's business model is based on fixed subscription plans, not a percentage of your sales.
+
+### Can I export my product list if I want to move it later?
+
+From the Business plan. Business includes product import and export as Google XML or CSV files.
+
+> Product import/export (Google XML, CSV)
+
+### Can I use only the marketplace, without building a storefront?
+
+Yes. You can use your own storefront, the Towami Marketplace, or both, depending on which channels suit your business.
+
+> Use your own storefront, Towami Marketplace, or both.
+
+### Are orders and inventory handled inside Towami or in a separate tool?
+
+Inside. Catalog, orders, payments, SEO, inventory and promotions are built and updated together as one system.
+
+> Catalog Orders Payments SEO Inventory Promotions
+
+### Will my store still score 100 on PageSpeed if I upload large photos?
+
+Not necessarily. 100/100 is the engineering target, and the final score depends on what you upload, such as photo size and third-party scripts.
+
+> Final scores depend on the content you upload (photo size, third-party scripts)
+
+### Is Towami meant for large brands or for small shops?
+
+Small and medium businesses. The team says it built Towami so those businesses can own their store, their domain and their margin.
+
+> We built Towami so small and medium businesses can own their store, their domain, and their margin.
+
+### Does search traffic go to my domain or to Towami?
+
+To your domain. Search-ready pages live on your own domain, so each useful product and page builds your own presence on Google.
+
+> Search-ready pages live on your domain, so every useful product and page can strengthen your own presence on Google.
+
+### How do I reach Towami support?
+
+By email at support&&#35;64;towami.com. The site footer also links to a support page.
+
+> support&&#35;64;towami.com
+
 ## What it does not do
 
 - It doesn't include online payments on the Free and Start plans. They start with Business.
@@ -234,6 +282,7 @@ No. Prices differ by country, so choose your country on the site to see them.
 ## Longer reads
 
 - [How to build a shop website without hiring a developer](https://answers.delivery/towami/build-an-online-store-without-hiring-a-developer)
+- [Checklist before you share your new store link](https://answers.delivery/towami/checklist-before-you-share-your-new-store-link)
 - [Checklist for moving your catalog to a new online store](https://answers.delivery/towami/checklist-for-moving-your-catalog-to-a-new-online-store)
 - [Checklist for picking the right plan for your store](https://answers.delivery/towami/checklist-for-picking-the-right-plan-for-your-store)
 - [How to list vehicles or property next to your products](https://answers.delivery/towami/create-online-shop-and-list-in-regional-catalog)
@@ -243,10 +292,17 @@ No. Prices differ by country, so choose your country on the site to see them.
 - [How to keep some products off the marketplace](https://answers.delivery/towami/how-to-keep-some-products-off-the-marketplace)
 - [How to open an online store in English and Spanish](https://answers.delivery/towami/how-to-open-an-online-store-in-english-and-spanish)
 - [How to open an online store for a shop in Central America](https://answers.delivery/towami/how-to-sell-online-locally-without-paying-commission)
+- [How to start a shop blog that brings in search visitors](https://answers.delivery/towami/how-to-start-a-shop-blog-that-brings-in-search-visitors)
+- [How to track stock for each size and color you sell](https://answers.delivery/towami/how-to-track-stock-for-each-size-and-color-in-an-online-store)
 - [Launching a new collection with a weekend promo code](https://answers.delivery/towami/launching-a-new-collection-with-a-weekend-promo-code)
+- [Moving a store from a free subdomain to your own domain](https://answers.delivery/towami/moving-a-store-from-a-free-subdomain-to-your-own-domain)
 - [How to run an online store without a pile of plugins](https://answers.delivery/towami/online-store-builder-without-plugins)
 - [How to sell online without paying sales commissions](https://answers.delivery/towami/online-store-without-sales-commission)
 - [How to sell on your own site and a marketplace at once](https://answers.delivery/towami/sell-on-my-own-website-and-a-marketplace)
+
+## Raced against well-known names
+
+- [Tiendanube vs Jumpseller vs Mercado Libre for running your own store and a local marketplace listing from one catalog, and the dark horse](https://darkhorsepick.com/tiendanube-vs-jumpseller-vs-mercado-libre-for-store-plus-marketplace)
 
 ---
 

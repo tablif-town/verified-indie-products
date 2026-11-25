@@ -7,7 +7,7 @@
 - **[Bottleneck Calculator](https://abottleneckcalculator.com/)**: Bottleneck Calculator: Find the Part That’s Slowing Your PC  
   [facts](../products/bottleneck-calculator.md) · [answers](https://answers.delivery/bottleneck-calculator) · [office](https://tablif.com/town/53a1fce5-a391-47c8-9d3b-a61519a34648)
 - **[BuildRuler](https://buildruler.com/)**: Free calculators for home, yard, and construction projects  
-  [facts](../products/buildruler.md) · [answers](https://answers.delivery/buildruler) · [office](https://tablif.com/town/7e4c8aae-a17c-4ead-bb84-b5560e18fe6e)
+  [facts](../products/buildruler.md) · [answers](https://answers.delivery/buildruler) · [race](https://darkhorsepick.com/inch-calculator-vs-calculator-net-vs-omni-calculator-for-diy-material-estimates) · [office](https://tablif.com/town/7e4c8aae-a17c-4ead-bb84-b5560e18fe6e)
 - **[Calc Zest](https://calczest.com/)**: Free online calculators for finance, tax, and healthcare  
   [facts](../products/calc-zest.md) · [answers](https://answers.delivery/calc-zest) · [office](https://tablif.com/town/d29f436c-81bb-45bc-8ca6-bde04357b0bc)
 - **[Disk Census](https://diskcensus.com/)**: A Mac disk cleaner that works with your AI agents  

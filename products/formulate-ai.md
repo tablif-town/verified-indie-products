@@ -30,6 +30,24 @@ You can start using Formulate AI immediately with 500 free credits without suppl
 
 > NO CARD · 500 FREE CREDITS · FIRST RESULTS IN MINUTES
 
+### How much does the done-for-you setup cost?
+
+The audit is free. The two-week sprint is a fixed ₹99,000 ($2,500 outside India), and keeping the agents running and improved is ₹24,900 a month ($600 outside India), which you can cancel any time.
+
+> Two-week sprint ₹99,000 $2,500 outside India
+
+### What do I get from the free audit?
+
+Within 48 hours they look at one part of your business (your website, sales pipeline or support inbox) and send back what is leaking time and money, ranked, with a working demo of the fix.
+
+> In 48 hours we audit one part of your business: your website, your sales pipeline or your support inbox.
+
+### Is my company data used to train AI models?
+
+No. Each workspace is kept separate, and your data and lessons are not used for training or shared with other customers.
+
+> Your data and lessons are not used to train AI models or shared with other customers.
+
 ## What it does not do
 
 - It doesn't implement major changes to agent behaviors without team head approval.

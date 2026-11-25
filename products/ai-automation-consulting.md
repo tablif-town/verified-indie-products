@@ -204,6 +204,48 @@ Usually because of retrieval, permissions, stale content or a pipeline nobody ca
 
 > Most RAG failures are not model failures. They come from retrieval, permissions, stale content, or a pipeline nobody can inspect when an answer goes wrong.
 
+### Where are you based?
+
+In the New York area. Work is done remotely with US-based clients.
+
+> I am based in the New York area and work remotely with US-based clients.
+
+### Do you build the system or only advise?
+
+Both. An engagement can end with working systems, documentation and deployment patterns, rather than a slide deck of recommendations.
+
+> You get working systems, documentation, deployment patterns, and enough context for your engineers to keep moving without me.
+
+### Can each AI agent have its own budget?
+
+Yes. The agent systems Quinn builds give agents owners, budgets, eval gates and human approval, and they are designed to be handed over to your team.
+
+> Agent teams with owners, budgets, eval gates and human approval, built to be handed over.
+
+### Can retrieval be limited to our internal documents?
+
+Yes. In the featured financial services case, the RAG layer was scoped to internal documents on client-owned infrastructure.
+
+> plus a scoped RAG layer over internal documents and a documented handoff for the engineering team
+
+### Do you run workshops with our team?
+
+Yes, as part of paid discovery. Workshops sit alongside architecture work, roadmaps and technical recommendations, scoped before implementation.
+
+> Detailed discovery, architecture, workshops, roadmaps, and technical recommendations are scoped as paid consulting
+
+### What is your technical background?
+
+Cloud infrastructure, DevOps and mobile development. The focus is on connecting data science with platform engineering so companies can run AI models on their own infrastructure.
+
+> My background spans across cloud infrastructure, DevOps, and mobile development.
+
+### Do you use the same agent setup in your own work?
+
+Yes. The crew pattern Quinn builds for clients also runs Quinn's own app studio, where tests can send work back and every release is reviewed by Quinn.
+
+> The same crew pattern I build for clients runs my app studio.
+
 ## What it does not do
 
 - It doesn't offer on-site work; engagements run remotely and the listed clients are US-based.
@@ -229,6 +271,7 @@ Usually because of retrieval, permissions, stale content or a pipeline nobody ca
 - [For engineering teams with an AI prototype that has to ship](https://answers.delivery/ai-automation-consulting/for-engineering-teams-moving-ai-experiments-or-prototy)
 - [How to give AI agents access to internal tools safely](https://answers.delivery/ai-automation-consulting/give-ai-agents-safe-access-to-internal-tools)
 - [How to audit the AI automations you already run](https://answers.delivery/ai-automation-consulting/how-to-audit-the-ai-automations-you-already-run)
+- [How to give each AI agent one job and a budget](https://answers.delivery/ai-automation-consulting/how-to-give-each-ai-agent-one-job-and-a-budget)
 - [How to prepare for a free AI architecture call](https://answers.delivery/ai-automation-consulting/how-to-prepare-for-a-free-ai-architecture-call)
 - [How to split AI workloads between private and API models](https://answers.delivery/ai-automation-consulting/how-to-route-ai-workloads-between-private-and-frontier-models-under-co)
 - [How to pick the first AI workflow to put in production](https://answers.delivery/ai-automation-consulting/how-to-scope-the-first-production-ai-workflow)
@@ -238,6 +281,8 @@ Usually because of retrieval, permissions, stale content or a pipeline nobody ca
 - [How to keep proprietary data out of AI APIs](https://answers.delivery/ai-automation-consulting/private-llm-vs-openai-api-for-compliance)
 - [Readiness checklist before you self-host an LLM](https://answers.delivery/ai-automation-consulting/readiness-checklist-before-you-self-host-an-llm)
 - [How to lower LLM costs when API bills keep growing](https://answers.delivery/ai-automation-consulting/reduce-enterprise-llm-inference-costs)
+- [How to ship AI updates without breaking what works](https://answers.delivery/ai-automation-consulting/release-ai-updates-safely-with-eval-gates)
+- [How to stop AI agents forgetting between sessions](https://answers.delivery/ai-automation-consulting/self-hosted-memory-for-ai-agents)
 - [When an AI workflow touches data nobody mapped](https://answers.delivery/ai-automation-consulting/when-an-ai-workflow-touches-data-nobody-mapped)
 
 ---

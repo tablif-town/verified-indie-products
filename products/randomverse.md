@@ -221,6 +221,36 @@ No. It is completely free to use right now, for browsing and for posting.
 
 > Randomverse is currently completely free to use
 
+### Which video formats can I upload?
+
+MP4 and MOV. The founder confirms both formats are accepted.
+
+> Randomverse accepts both MP4 and MOV video formats.
+
+### Are there ads in the feed?
+
+No, not today. The founder confirms the feed is free of ads.
+
+> Is the feed free of ads today?
+
+### Where can I read the content rules?
+
+In the Terms of Use, which you see when you create an account. Later you can open them in Settings under Terms of Use, section 3, User-Generated Content & Conduct.
+
+> Settings under "Terms of Use → 3. User-Generated Content & Conduct".
+
+### Are the iPhone and Android apps coming out in 2026?
+
+No. The apps are in early testing, and the founder says their release is not scheduled for 2026.
+
+> Currently, the release for mobile apps is not scheduled to be in 2026.
+
+### Do posts with more likes get shown more often?
+
+No. The founder describes Randomverse as a platform without popularity contests or personalized feeds, so a post does not need a big reaction to keep turning up.
+
+> without popularity contests or personalized feeds
+
 ## What it does not do
 
 - It doesn't let you edit a post after it is published.
@@ -243,16 +273,19 @@ No. It is completely free to use right now, for browsing and for posting.
 
 - [A checklist for your first posts on a random feed](https://answers.delivery/randomverse/a-checklist-for-your-first-posts-on-a-random-feed)
 - [A weekly checklist for reading your post insights](https://answers.delivery/randomverse/a-weekly-checklist-for-reading-your-post-insights)
+- [How to scroll social posts without ads in your feed](https://answers.delivery/randomverse/ad-free-feed-for-photos-and-videos)
 - [Discover content outside your usual social media bubble](https://answers.delivery/randomverse/for-people-who-are-tired-of-feeds-tailored-to-what-the)
 - [Sharing photos and writing without chasing likes](https://answers.delivery/randomverse/for-people-who-share-photos-videos-or-short-writing-fo)
 - [Getting your posts seen when you have no followers](https://answers.delivery/randomverse/get-my-posts-seen-without-followers)
 - [How to keep the discovered posts you want to see again](https://answers.delivery/randomverse/how-to-keep-the-random-posts-you-want-to-see-again)
 - [How to read everyday posts from people in other countries](https://answers.delivery/randomverse/how-to-see-everyday-posts-from-people-in-other-countries)
 - [How to see which countries your posts reached](https://answers.delivery/randomverse/how-to-see-which-countries-your-posts-reached)
+- [Preparing a video post when there is no length limit](https://answers.delivery/randomverse/preparing-a-video-post-when-there-is-no-length-limit)
 - [Privacy checklist before you sign up for a social app](https://answers.delivery/randomverse/privacy-checklist-before-you-sign-up-for-a-social-app)
 - [Reporting an upsetting post and getting back to browsing](https://answers.delivery/randomverse/reporting-an-upsetting-post-and-getting-back-to-browsing)
 - [How to browse social posts without signing up first](https://answers.delivery/randomverse/social-media-feeds-feel-repetitive-and-predictable)
 - [How to Find a Social Media Feed Without an Algorithm](https://answers.delivery/randomverse/social-media-without-algorithm)
+- [How to find fresh ideas when your creative work feels stuck](https://answers.delivery/randomverse/where-to-find-creative-inspiration-outside-my-niche)
 - [How to share unfinished work without a perfect feed](https://answers.delivery/randomverse/where-to-share-unfinished-work-online)
 
 ## Raced against well-known names
