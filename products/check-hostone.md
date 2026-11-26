@@ -48,6 +48,24 @@ Yes. Pick countries or whole continents in the server list, with up to 25 server
 
 > Pick countries or whole continents in the server list and use up to 25 servers per check.
 
+### Can I check if my game server port is open from outside?
+
+Yes. TCP Ping opens a connection to the port you choose, such as 443, 22 or 25565, and times the handshake, so it works even where ping is blocked.
+
+> Check whether a port such as 443, 22 or 25565 is open and reachable, even where ICMP ping is blocked.
+
+### Is there an API, and do I need a key?
+
+Yes, in a limited way. The site's own JSON endpoints take no key, but they are same-origin and rate limited.
+
+> They are same-origin and take no key, but they are rate limited
+
+### Can I check a DNS change with a specific record type or resolver?
+
+Yes. You choose the record type (A, AAAA, MX, TXT, NS, CNAME, SOA, PTR or ANY) and can set a custom resolver such as 1.1.1.1; left blank, each server uses its own.
+
+> optionally a custom resolver such as 1.1.1.1
+
 ## What it does not do
 
 - It doesn't keep saved result links active after 90 days.
@@ -66,6 +84,10 @@ Yes. Pick countries or whole continents in the server list, with up to 25 server
 
 - [How to check DNS propagation in different countries](https://answers.delivery/check-hostone/check-dns-propagation-across-regions)
 - [How to check if a website is down worldwide](https://answers.delivery/check-hostone/check-if-website-is-down-worldwide)
+
+## Raced against well-known names
+
+- [Check-Host.net vs ping.pe vs Globalping for checking if a site is down everywhere and sharing the result, and the dark horse](https://darkhorsepick.com/check-host-net-vs-ping-pe-vs-globalping-for-is-it-down-checks)
 
 ---
 

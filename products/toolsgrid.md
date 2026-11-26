@@ -48,6 +48,54 @@ Roughly 50 to 100 MB, or about 100 to 300 pages, before the browser starts to sl
 
 > Up to 50 MB – 100 MB (\~100 to 300 pages)
 
+### Can I make a two-column resume?
+
+Yes. The resume builder offers single-column and two-column layouts, both exported as PDF.
+
+> produces cleanly formatted, single-column and dual-column resumes
+
+### Can I use the tools on my phone?
+
+Yes, in the phone's browser. The processing runs on whatever device you open the site on, phone or laptop.
+
+> Your phone or laptop can compress images, parse PDF streams
+
+### Can I turn an SVG logo into a favicon?
+
+Yes. The SVG converter makes high-DPI PNGs or a multi-size ICO favicon bundle, all inside the browser.
+
+> Convert vector SVGs into high-DPI PNGs or multi-size Windows/browser ICO favicon bundles entirely in-browser.
+
+### What happens to my file when I close the tab?
+
+It is gone. The memory the tool used is cleared when you close the tab, and the file never reached ToolsGrid's servers in the first place.
+
+> Once you close the tab, the allocated memory is cleared immediately.
+
+### How many working hours does the pay raise calculator assume?
+
+By default it uses 40 hours a week and 52 weeks a year when it turns a salary into an hourly rate.
+
+> By default, calculator 40 hours/week aur 52 weeks/year
+
+### Can I turn an Excel sheet into a PDF?
+
+Yes. The Excel to PDF converter takes XLSX, XLS and CSV files and turns them into searchable PDFs in the browser.
+
+> Convert XLSX, XLS, and CSV spreadsheets into clean, searchable vector PDFs in-browser.
+
+### Will compressing a photo lower its quality?
+
+With JPEG and WebP, yes, a little. That compression is lossy, so look at the preview before you download the smaller file.
+
+> JPEG and WebP compression is lossy, so check the preview before downloading.
+
+### Does any tool send my files to a server?
+
+Only one. The optional AI audit is the exception, and every other tool processes your files inside the browser.
+
+> Files are processed in your browser rather than uploaded to ToolsGrid servers (the optional AI audit is the one exception).
+
 ## Longer reads
 
 - [How to shrink JPG and PNG files without uploading them](https://answers.delivery/toolsgrid/compress-images-without-uploading-to-a-server)

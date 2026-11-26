@@ -1,8 +1,8 @@
 {
   "name": "Verified indie products",
   "source": "https://tablif.com",
-  "updated": "2026-11-25",
-  "count": 189,
+  "updated": "2026-11-26",
+  "count": 196,
   "products": [
     {
       "id": "219875",
@@ -66,8 +66,26 @@
       "verifiedAt": "2026-10-21",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/ai-automation-consulting.md",
       "answers": "https://answers.delivery/ai-automation-consulting",
-      "races": [],
+      "races": [
+        {
+          "title": "Alpacked vs Acosom vs Kevin Leary for getting AI infrastructure built and handed over to your own team, and the dark horse",
+          "url": "https://darkhorsepick.com/alpacked-vs-acosom-vs-kevin-leary-for-ai-infrastructure-handoff"
+        }
+      ],
       "office": "https://tablif.com/town/7ac422a9-3005-444e-8b5c-717410d25b6d"
+    },
+    {
+      "id": "306698",
+      "name": "AIOHM White Label",
+      "url": "https://aiohm.org/white-label",
+      "tagline": "White-label AI marketing platform for agencies and consultants",
+      "topic": "Startup",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-26",
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/aiohm-white-label.md",
+      "answers": "https://answers.delivery/aiohm-white-label",
+      "races": [],
+      "office": "https://tablif.com/town/326181bd-56b5-411d-992b-2caa23d335e8"
     },
     {
       "id": "315141",
@@ -92,7 +110,12 @@
       "verifiedAt": "2026-11-09",
       "facts": null,
       "answers": null,
-      "races": [],
+      "races": [
+        {
+          "title": "Rithmm vs Edge AI vs AI Tennis Predictions for getting AI table tennis predictions without a subscription, and the dark horse",
+          "url": "https://darkhorsepick.com/rithmm-vs-edge-ai-vs-ai-tennis-predictions-for-pay-per-pick-table-tennis"
+        }
+      ],
       "office": "https://tablif.com/town/bd685820-e79a-4e74-bde2-834d573c8f4c"
     },
     {
@@ -107,6 +130,19 @@
       "answers": "https://answers.delivery/albertcode-swe",
       "races": [],
       "office": "https://tablif.com/town/606d697a-ce10-497b-a79c-a59dbfc53d17"
+    },
+    {
+      "id": "307025",
+      "name": "AP Stats Calculator",
+      "url": "https://www.apstatscalculator.com/",
+      "tagline": "Free AP Statistics calculators with step-by-step solutions",
+      "topic": "Desktop and utilities",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-25",
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/ap-stats-calculator.md",
+      "answers": "https://answers.delivery/ap-stats-calculator",
+      "races": [],
+      "office": "https://tablif.com/town/314d3f98-61c2-4561-a9eb-456207a5fd75"
     },
     {
       "id": "245471",
@@ -157,7 +193,12 @@
       "verifiedAt": "2026-10-21",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/baroguard.md",
       "answers": "https://answers.delivery/baroguard",
-      "races": [],
+      "races": [
+        {
+          "title": "Altimeter for Wear OS vs Barometer Plus vs WatchBarometer for checking air pressure and altitude on your watch, and the dark horse",
+          "url": "https://darkhorsepick.com/altimeter-for-wear-os-vs-barometer-plus-vs-watchbarometer-for-pressure-on-your-watch"
+        }
+      ],
       "office": "https://tablif.com/town/52666727-439f-4ead-875e-aa6769a570b0"
     },
     {
@@ -301,6 +342,19 @@
       "office": "https://tablif.com/town/d29f436c-81bb-45bc-8ca6-bde04357b0bc"
     },
     {
+      "id": "307013",
+      "name": "Calcul Volume",
+      "url": "https://www.calculvolume.com/",
+      "tagline": "Free volume calculators in French & 18 other languages",
+      "topic": "Desktop and utilities",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-25",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/fd5ec958-6eec-4457-a789-e2fdf03be754"
+    },
+    {
       "id": "251014",
       "name": "Campaignity",
       "url": "https://campaignityai.com/",
@@ -314,6 +368,19 @@
       "office": "https://tablif.com/town/7094deb9-76fb-4dbb-a8fe-ac02756059f8"
     },
     {
+      "id": "150502",
+      "name": "Canopy Arabian Astrology",
+      "url": "https://www.canopyastro.com/",
+      "tagline": "Daily Arabic horoscope and astrology app for iOS and Android",
+      "topic": "Personal",
+      "firstSeen": "2026-09-14",
+      "verifiedAt": "2026-11-25",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/03bf54e0-c8b4-4698-979b-acc2021155c0"
+    },
+    {
       "id": "309647",
       "name": "check-host.one",
       "url": "https://check-host.one/",
@@ -323,7 +390,12 @@
       "verifiedAt": "2026-11-15",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/check-hostone.md",
       "answers": "https://answers.delivery/check-hostone",
-      "races": [],
+      "races": [
+        {
+          "title": "Check-Host.net vs ping.pe vs Globalping for checking if a site is down everywhere and sharing the result, and the dark horse",
+          "url": "https://darkhorsepick.com/check-host-net-vs-ping-pe-vs-globalping-for-is-it-down-checks"
+        }
+      ],
       "office": "https://tablif.com/town/8cec8f2d-5e00-43b8-8632-3ff521e4a502"
     },
     {
@@ -1401,8 +1473,26 @@
       "verifiedAt": "2026-10-23",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/motionguard.md",
       "answers": "https://answers.delivery/motionguard",
-      "races": [],
+      "races": [
+        {
+          "title": "Anti Theft Phone Alarm vs Don't Touch My Phone vs Hands Off My Phone for getting an alarm if someone moves your phone while you step away, and the dark horse",
+          "url": "https://darkhorsepick.com/anti-theft-phone-alarm-vs-dont-touch-my-phone-vs-hands-off-my-phone-for-desk-alarms"
+        }
+      ],
       "office": "https://tablif.com/town/01f2fcdd-2bec-477e-b658-28875a6cb736"
+    },
+    {
+      "id": "390738",
+      "name": "Muchhad Quiz",
+      "url": "https://muchhad-quiz.cc.cd/",
+      "tagline": "Kahoot killer: Free, no-signup live quizzes for 150+ players",
+      "topic": "Developer",
+      "firstSeen": "2026-11-24",
+      "verifiedAt": "2026-11-26",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/dcdfa7f7-c024-472e-929c-957e1ed8db1b"
     },
     {
       "id": "211983",
@@ -1532,6 +1622,19 @@
       "office": "https://tablif.com/town/14345555-4cc6-4dd6-8ac9-21ca0e9fced9"
     },
     {
+      "id": "389420",
+      "name": "Patch",
+      "url": "https://patchaudio.app/",
+      "tagline": "A complete pro audio suite for Omarchy",
+      "topic": "Industry",
+      "firstSeen": "2026-11-24",
+      "verifiedAt": "2026-11-25",
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/patch.md",
+      "answers": "https://answers.delivery/patch",
+      "races": [],
+      "office": "https://tablif.com/town/d207356a-22bc-4ce7-bd62-ecafeef5c289"
+    },
+    {
       "id": "280864",
       "name": "PavoAI",
       "url": "https://pavoai.net/",
@@ -1543,6 +1646,19 @@
       "answers": "https://answers.delivery/pavoai",
       "races": [],
       "office": "https://tablif.com/town/52202f4d-e3e3-41d2-9c82-bfc7b9113e3e"
+    },
+    {
+      "id": "390122",
+      "name": "PerfOS",
+      "url": "https://perfos.pl/",
+      "tagline": "AI that creates, launches and optimizes your Meta Ads 24/7.",
+      "topic": "Developer",
+      "firstSeen": "2026-11-24",
+      "verifiedAt": "2026-11-25",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/8a79e875-c23c-445f-ab58-8bf6b168469f"
     },
     {
       "id": "262863",
@@ -1806,7 +1922,12 @@
       "verifiedAt": "2026-10-21",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/rizer.md",
       "answers": "https://answers.delivery/rizer",
-      "races": [],
+      "races": [
+        {
+          "title": "Custom Ink vs Vistaprint vs Printful for ordering custom staff and event T-shirts in Sri Lanka, and the dark horse",
+          "url": "https://darkhorsepick.com/custom-ink-vs-vistaprint-vs-printful-for-staff-t-shirts-in-sri-lanka"
+        }
+      ],
       "office": "https://tablif.com/town/66fa58d0-660f-43f5-b242-316f1d017a33"
     },
     {
@@ -2196,7 +2317,12 @@
       "verifiedAt": "2026-10-21",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/tally-counter-app-for-wear-os.md",
       "answers": "https://answers.delivery/tally-counter-app-for-wear-os",
-      "races": [],
+      "races": [
+        {
+          "title": "Tallies vs Multi Counter vs Smart Counter by Gesture for counting reps, laps and people on your Wear OS watch, and the dark horse",
+          "url": "https://darkhorsepick.com/tallies-vs-multi-counter-vs-smart-counter-for-wear-os-counting"
+        }
+      ],
       "office": "https://tablif.com/town/b2e048ea-f240-406b-8005-075ac23946cd"
     },
     {
@@ -2463,7 +2589,12 @@
       "verifiedAt": "2026-11-23",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/wristbridge.md",
       "answers": "https://answers.delivery/wristbridge",
-      "races": [],
+      "races": [
+        {
+          "title": "AutoWear vs Home Assistant vs Complications Suite for putting your own data on your Wear OS watch face, and the dark horse",
+          "url": "https://darkhorsepick.com/autowear-vs-home-assistant-vs-complications-suite-for-wear-os-data"
+        }
+      ],
       "office": "https://tablif.com/town/a3a42903-206e-4df0-98a8-74376a37ed3e"
     },
     {

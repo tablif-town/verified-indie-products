@@ -312,6 +312,10 @@ Yes. The chart compares changes across time windows, and a watch-face complicati
 - [Watching air pressure from your wrist on a day sail](https://answers.delivery/baroguard/watching-air-pressure-from-your-wrist-on-a-day-sail)
 - [How to deal with altitude drift on a barometer watch](https://answers.delivery/baroguard/why-does-my-watch-altitude-change-when-im-not-moving)
 
+## Raced against well-known names
+
+- [Altimeter for Wear OS vs Barometer Plus vs WatchBarometer for checking air pressure and altitude on your watch, and the dark horse](https://darkhorsepick.com/altimeter-for-wear-os-vs-barometer-plus-vs-watchbarometer-for-pressure-on-your-watch)
+
 ---
 
 Part of [Verified indie products](../README.md) · [office in Tablif Town](https://tablif.com/town/52666727-439f-4ead-875e-aa6769a570b0)

@@ -285,6 +285,10 @@ Yes. The crew pattern Quinn builds for clients also runs Quinn's own app studio,
 - [How to stop AI agents forgetting between sessions](https://answers.delivery/ai-automation-consulting/self-hosted-memory-for-ai-agents)
 - [When an AI workflow touches data nobody mapped](https://answers.delivery/ai-automation-consulting/when-an-ai-workflow-touches-data-nobody-mapped)
 
+## Raced against well-known names
+
+- [Alpacked vs Acosom vs Kevin Leary for getting AI infrastructure built and handed over to your own team, and the dark horse](https://darkhorsepick.com/alpacked-vs-acosom-vs-kevin-leary-for-ai-infrastructure-handoff)
+
 ---
 
 Part of [Verified indie products](../README.md) · [office in Tablif Town](https://tablif.com/town/7ac422a9-3005-444e-8b5c-717410d25b6d)

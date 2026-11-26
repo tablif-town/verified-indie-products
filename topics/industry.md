@@ -1,6 +1,6 @@
 # Industry
 
-24 verified products. Part of [Verified indie products](../README.md).
+25 verified products. Part of [Verified indie products](../README.md).
 
 - **[3DJ.app](https://www.3dj.app/)**: AI-assisted CAD and 3D creation for makers and agents  
   [facts](../products/3djapp.md) · [answers](https://answers.delivery/3djapp) · [office](https://tablif.com/town/33a80ef5-8ffb-4fef-a184-2d701a523653)
@@ -28,6 +28,8 @@
   [facts](../products/mapitt.md) · [answers](https://answers.delivery/mapitt) · [office](https://tablif.com/town/b550c134-1fec-4b6c-b847-5d219bac25cd)
 - **[MingList](https://minglist.top/)**: Free local classifieds. Your email stays private.  
   [facts](../products/minglist.md) · [answers](https://answers.delivery/minglist) · [office](https://tablif.com/town/2b546529-ebc3-45e6-916b-178066406c72)
+- **[Patch](https://patchaudio.app/)**: A complete pro audio suite for Omarchy  
+  [facts](../products/patch.md) · [answers](https://answers.delivery/patch) · [office](https://tablif.com/town/d207356a-22bc-4ce7-bd62-ecafeef5c289)
 - **[PSL Scale](https://pslscale.com/)**: PSL Scale is an AI-powered facial attractiveness evaluation tool.  
   [facts](../products/psl-scale.md) · [answers](https://answers.delivery/psl-scale) · [office](https://tablif.com/town/8c2c3563-5b4a-47b6-8ba1-24609a7cb331)
 - **[Reado](https://www.reado.lol/)**: Remember what you read  
@@ -39,7 +41,7 @@
 - **[Rivetway](https://rivetway.com/)**: Fleet Management  
   [office](https://tablif.com/town/992fbf5d-f45d-425e-9543-9bb53b54f7f9)
 - **[RIZER](https://rizer.lk/)**: Sri Lanka's 1st Sustainable Fashion & rPET Fabric Brand  
-  [facts](../products/rizer.md) · [answers](https://answers.delivery/rizer) · [office](https://tablif.com/town/66fa58d0-660f-43f5-b242-316f1d017a33)
+  [facts](../products/rizer.md) · [answers](https://answers.delivery/rizer) · [race](https://darkhorsepick.com/custom-ink-vs-vistaprint-vs-printful-for-staff-t-shirts-in-sri-lanka) · [office](https://tablif.com/town/66fa58d0-660f-43f5-b242-316f1d017a33)
 - **[Shoptimist](https://shoptimist.co/)**: Shoptimist is curated Amazon. Amazon is a great place to shop. It is not a great place to browse. Find the best products.  
   [facts](../products/shoptimist.md) · [answers](https://answers.delivery/shoptimist) · [office](https://tablif.com/town/b02dcacc-6538-4e79-8c53-36785c8884dc)
 - **[SmartApp.az](https://smartapp.az/en)**: All-in-one platform for POS, inventory, and CRM  

@@ -312,6 +312,10 @@ No. It is a standalone Wear OS app, and it runs without a phone connection.
 - [How to know the moment you reach a target count](https://answers.delivery/tally-counter-app-for-wear-os/watch-counter-that-buzzes-at-a-target-number)
 - [How to count gym reps and sets on your Wear OS watch](https://answers.delivery/tally-counter-app-for-wear-os/wear-os-counter-app-for-gym-reps)
 
+## Raced against well-known names
+
+- [Tallies vs Multi Counter vs Smart Counter by Gesture for counting reps, laps and people on your Wear OS watch, and the dark horse](https://darkhorsepick.com/tallies-vs-multi-counter-vs-smart-counter-for-wear-os-counting)
+
 ---
 
 Part of [Verified indie products](../README.md) · [office in Tablif Town](https://tablif.com/town/b2e048ea-f240-406b-8005-075ac23946cd)

@@ -156,6 +156,10 @@ Not in the sources. MotionGuard is listed on Google Play for Android phones.
 - [How to find a phone motion alarm that needs no account](https://answers.delivery/motionguard/phone-motion-alarm-app-android)
 - [What to check before you install a phone alarm app](https://answers.delivery/motionguard/what-to-check-before-you-install-a-phone-alarm-app)
 
+## Raced against well-known names
+
+- [Anti Theft Phone Alarm vs Don't Touch My Phone vs Hands Off My Phone for getting an alarm if someone moves your phone while you step away, and the dark horse](https://darkhorsepick.com/anti-theft-phone-alarm-vs-dont-touch-my-phone-vs-hands-off-my-phone-for-desk-alarms)
+
 ---
 
 Part of [Verified indie products](../README.md) · [office in Tablif Town](https://tablif.com/town/01f2fcdd-2bec-477e-b658-28875a6cb736)

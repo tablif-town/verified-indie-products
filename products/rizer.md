@@ -225,6 +225,10 @@ Ask when you request a quote. Include the delivery location and the date you nee
 - [Logo checklist before ordering branded apparel](https://answers.delivery/rizer/logo-checklist-before-ordering-branded-apparel)
 - [Quote request template for a custom apparel order](https://answers.delivery/rizer/quote-request-template-for-a-custom-apparel-order)
 
+## Raced against well-known names
+
+- [Custom Ink vs Vistaprint vs Printful for ordering custom staff and event T-shirts in Sri Lanka, and the dark horse](https://darkhorsepick.com/custom-ink-vs-vistaprint-vs-printful-for-staff-t-shirts-in-sri-lanka)
+
 ---
 
 Part of [Verified indie products](../README.md) · [office in Tablif Town](https://tablif.com/town/66fa58d0-660f-43f5-b242-316f1d017a33)

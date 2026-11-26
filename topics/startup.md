@@ -1,7 +1,9 @@
 # Startup
 
-6 verified products. Part of [Verified indie products](../README.md).
+7 verified products. Part of [Verified indie products](../README.md).
 
+- **[AIOHM White Label](https://aiohm.org/white-label)**: White-label AI marketing platform for agencies and consultants  
+  [facts](../products/aiohm-white-label.md) · [answers](https://answers.delivery/aiohm-white-label) · [office](https://tablif.com/town/326181bd-56b5-411d-992b-2caa23d335e8)
 - **[BEQ — Build Estimate Quote](https://beq.ae/)**: Professional quotations. In just a few clicks.  
   [facts](../products/beq-build-estimate-quote.md) · [answers](https://answers.delivery/beq-build-estimate-quote) · [office](https://tablif.com/town/08585f5b-f70e-4245-8ef7-3bc126ecff94)
 - **[Bretzel SEO](https://bretzel-seo.fr/)**: All-in-one local SEO toolkit for agencies and freelancers  
