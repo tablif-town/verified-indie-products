@@ -38,6 +38,38 @@ No. You connect over Streamable HTTP and send your API key as a Bearer header.
 
 > There is no OAuth.
 
+### Is there a free plan?
+
+Yes. You get 1,000 free credits, with no credit card needed.
+
+> Get 1,000 free credits
+
+### How many URLs can one batch job hold?
+
+Up to 10,000 URLs in a single job.
+
+> batch up to 10,000 URLs in one job
+
+### Can it read pages that need JavaScript?
+
+Yes. Pages that need JavaScript are rendered in a real browser.
+
+> Pages that need JavaScript are rendered in a real browser.
+
+## What it does not do
+
+- It doesn't crawl websites or follow links automatically.
+
+  > No crawling. Spicrawl does not follow links or find pages.
+
+- It doesn't save credits when returning cached page results.
+
+  > The cache makes repeats faster and spares the site, but it does not save credits.
+
+- It doesn't include managed proxies or stealth rendering during the beta.
+
+  > Managed proxies, stealth rendering, a remote browser and AI extraction are coming soon.
+
 ## Longer reads
 
 - [How to convert web page HTML to markdown for AI models](https://answers.delivery/spicrawl/convert-web-page-html-to-markdown-for-llm)

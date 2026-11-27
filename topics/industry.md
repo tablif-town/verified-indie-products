@@ -1,6 +1,6 @@
 # Industry
 
-25 verified products. Part of [Verified indie products](../README.md).
+26 verified products. Part of [Verified indie products](../README.md).
 
 - **[3DJ.app](https://www.3dj.app/)**: AI-assisted CAD and 3D creation for makers and agents  
   [facts](../products/3djapp.md) · [answers](https://answers.delivery/3djapp) · [office](https://tablif.com/town/33a80ef5-8ffb-4fef-a184-2d701a523653)
@@ -12,6 +12,8 @@
   [facts](../products/estackly.md) · [answers](https://answers.delivery/estackly) · [office](https://tablif.com/town/922936c1-2192-410a-b9fb-7de315be3a11)
 - **[EV Plug Finder](https://evplugfinder.com/)**: Find the right EV charger. Fast.  
   [facts](../products/ev-plug-finder.md) · [answers](https://answers.delivery/ev-plug-finder) · [office](https://tablif.com/town/b6a7ab59-535e-49aa-8fb3-365f2418bd66)
+- **[Evergen AI](https://evergenai.app)**  
+  [office](https://tablif.com/town/37052799-9f3b-4431-a7a7-d9db84cca0dc)
 - **[Facebook Marketplace](https://facebook-usa-marketplace.blogspot.com/)**: Search Products by Location on Facebook Marketplace  
   [facts](../products/facebook-marketplace.md) · [answers](https://answers.delivery/facebook-marketplace) · [office](https://tablif.com/town/3993c38d-5e0c-4994-89a0-308ea886539c)
 - **[Fashion Try-On AI](https://fashiontryon.vishnexa.com/)**: Turn fabric into outfits and virtually try them on with AI  
@@ -45,7 +47,7 @@
 - **[Shoptimist](https://shoptimist.co/)**: Shoptimist is curated Amazon. Amazon is a great place to shop. It is not a great place to browse. Find the best products.  
   [facts](../products/shoptimist.md) · [answers](https://answers.delivery/shoptimist) · [office](https://tablif.com/town/b02dcacc-6538-4e79-8c53-36785c8884dc)
 - **[SmartApp.az](https://smartapp.az/en)**: All-in-one platform for POS, inventory, and CRM  
-  [office](https://tablif.com/town/e2a6f522-f12a-4cc1-994d-67242d97b599)
+  [facts](../products/smartappaz.md) · [answers](https://answers.delivery/smartappaz) · [office](https://tablif.com/town/e2a6f522-f12a-4cc1-994d-67242d97b599)
 - **[Stylino GR](https://stylino.gr/)**: One search, every fashion store shipping to Greece  
   [facts](../products/stylino-gr.md) · [answers](https://answers.delivery/stylino-gr) · [office](https://tablif.com/town/296a7680-41d5-478d-8e76-36a75eda7d41)
 - **[SuperBox S8 Max](https://mysuperboxtvbox.com/product/superbox-s8-max/)**: A powerful Android TV box for everyday home entertainment  

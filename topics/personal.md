@@ -21,7 +21,7 @@
 ## C
 
 - **[Canopy Arabian Astrology](https://www.canopyastro.com/)**: Daily Arabic horoscope and astrology app for iOS and Android  
-  [office](https://tablif.com/town/03bf54e0-c8b4-4698-979b-acc2021155c0)
+  [facts](../products/canopy-arabian-astrology.md) · [answers](https://answers.delivery/canopy-arabian-astrology) · [office](https://tablif.com/town/03bf54e0-c8b4-4698-979b-acc2021155c0)
 - **[CineTrack](https://cinetrack.tv)**: Track movies and TV shows; describe a plot or a vibe to find it  
   [facts](../products/cinetrack.md) · [answers](https://answers.delivery/cinetrack) · [office](https://tablif.com/town/4f352f07-722c-4398-90dc-dcaa25fc377c)
 - **[Click me a Startup 2](https://praveenax.itch.io/click-me-a-startup-2)**: Can you build a Startup in 365 days one click at a time?  
@@ -136,7 +136,7 @@
 ## W
 
 - **[WagerNest](https://wagernest.app/)**: Wagernest - Live Sports Betting Intelligence tool  
-  [facts](../products/wagernest.md) · [answers](https://answers.delivery/wagernest) · [office](https://tablif.com/town/42b0e802-0c33-4f19-9d58-a26af4fc0d00)
+  [facts](../products/wagernest.md) · [answers](https://answers.delivery/wagernest) · [race](https://darkhorsepick.com/action-network-vs-pikkit-vs-outlier-for-crypto-sportsbook-research) · [office](https://tablif.com/town/42b0e802-0c33-4f19-9d58-a26af4fc0d00)
 - **[WalkReset](https://play.google.com/store/apps/details?id=com.quazmoz.walkreset)**: Walking-break reminders that check you actually walked  
   [facts](../products/walkreset.md) · [answers](https://answers.delivery/walkreset) · [race](https://darkhorsepick.com/fitbit-vs-garmin-vs-samsung-health-for-walking-breaks) · [office](https://tablif.com/town/00962416-bb20-430d-b5b6-1fc4985a9100)
 - **[Wings Chess](https://wingschess.com/)**: Learn chess with an AI coach that explains every move  

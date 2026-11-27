@@ -1,6 +1,6 @@
 # Developer
 
-15 verified products. Part of [Verified indie products](../README.md).
+16 verified products. Part of [Verified indie products](../README.md).
 
 - **[AI & Automation Consulting](https://consultant.quinnfavo.com/)**: AI infrastructure, DevOps automation, and LLM workflow consulting.  
   [facts](../products/ai-automation-consulting.md) · [answers](https://answers.delivery/ai-automation-consulting) · [race](https://darkhorsepick.com/alpacked-vs-acosom-vs-kevin-leary-for-ai-infrastructure-handoff) · [office](https://tablif.com/town/7ac422a9-3005-444e-8b5c-717410d25b6d)
@@ -10,6 +10,8 @@
   [facts](../products/devtools-hub.md) · [answers](https://answers.delivery/devtools-hub) · [office](https://tablif.com/town/bf466514-259a-4ddc-92b3-9f4c847f2902)
 - **[DMGKit](https://dmgkit.app/)**: Mac app distribution, made simple.  
   [facts](../products/dmgkit.md) · [answers](https://answers.delivery/dmgkit) · [office](https://tablif.com/town/c6c96646-a0a6-46f7-9e1f-53cc59d04565)
+- **[FreeToolWise](https://www.freetoolwise.com/)**: 259+ free, private browser utilities & AI writing tools  
+  [office](https://tablif.com/town/a0744e89-10cc-4559-9786-4949fcff9ab9)
 - **[kafkaesque](https://github.com/nikhil25803/kafkaesque)**: A lightweight Kafka observability tool and monitoring system  
   [facts](../products/kafkaesque.md) · [answers](https://answers.delivery/kafkaesque) · [office](https://tablif.com/town/b45b36d4-2dce-47b7-8745-480c63d2e36d)
 - **[Muchhad Quiz](https://muchhad-quiz.cc.cd/)**: Kahoot killer: Free, no-signup live quizzes for 150+ players  

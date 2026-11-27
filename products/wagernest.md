@@ -66,6 +66,10 @@ No. The founder confirms bettor identities from different source platforms are n
 
 - [How to track sports bets across multiple bookmakers](https://answers.delivery/wagernest/how-to-track-sports-bets-across-bookmakers)
 
+## Raced against well-known names
+
+- [Action Network vs Pikkit vs Outlier for researching where big money goes on crypto sportsbooks, and the dark horse](https://darkhorsepick.com/action-network-vs-pikkit-vs-outlier-for-crypto-sportsbook-research)
+
 ---
 
 Part of [Verified indie products](../README.md) · [office in Tablif Town](https://tablif.com/town/42b0e802-0c33-4f19-9d58-a26af4fc0d00)

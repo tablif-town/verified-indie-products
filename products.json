@@ -1,8 +1,8 @@
 {
   "name": "Verified indie products",
   "source": "https://tablif.com",
-  "updated": "2026-11-26",
-  "count": 196,
+  "updated": "2026-11-27",
+  "count": 198,
   "products": [
     {
       "id": "219875",
@@ -375,8 +375,8 @@
       "topic": "Personal",
       "firstSeen": "2026-09-14",
       "verifiedAt": "2026-11-25",
-      "facts": null,
-      "answers": null,
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/canopy-arabian-astrology.md",
+      "answers": "https://answers.delivery/canopy-arabian-astrology",
       "races": [],
       "office": "https://tablif.com/town/03bf54e0-c8b4-4698-979b-acc2021155c0"
     },
@@ -685,6 +685,19 @@
       "office": "https://tablif.com/town/b6a7ab59-535e-49aa-8fb3-365f2418bd66"
     },
     {
+      "id": "402633",
+      "name": "Evergen AI",
+      "url": "https://evergenai.app",
+      "tagline": null,
+      "topic": "Industry",
+      "firstSeen": "2026-11-26",
+      "verifiedAt": "2026-11-26",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/37052799-9f3b-4431-a7a7-d9db84cca0dc"
+    },
+    {
       "id": "206257",
       "name": "everyagent.si",
       "url": "https://everyagent.si/",
@@ -919,6 +932,19 @@
       "answers": "https://answers.delivery/freecreate",
       "races": [],
       "office": "https://tablif.com/town/bd81d04d-34c5-4d4a-b6d8-08acd8d42335"
+    },
+    {
+      "id": "301081",
+      "name": "FreeToolWise",
+      "url": "https://www.freetoolwise.com/",
+      "tagline": "259+ free, private browser utilities & AI writing tools",
+      "topic": "Developer",
+      "firstSeen": "2026-11-11",
+      "verifiedAt": "2026-11-27",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/a0744e89-10cc-4559-9786-4949fcff9ab9"
     },
     {
       "id": "278876",
@@ -2107,8 +2133,8 @@
       "topic": "Industry",
       "firstSeen": "2026-08-31",
       "verifiedAt": "2026-11-16",
-      "facts": null,
-      "answers": null,
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/smartappaz.md",
+      "answers": "https://answers.delivery/smartappaz",
       "races": [],
       "office": "https://tablif.com/town/e2a6f522-f12a-4cc1-994d-67242d97b599"
     },
@@ -2226,7 +2252,12 @@
       "verifiedAt": "2026-11-01",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/stereolift-live.md",
       "answers": "https://answers.delivery/stereolift-live",
-      "races": [],
+      "races": [
+        {
+          "title": "Virtual Desktop vs Immersed vs Owl3D for watching your PC screen in live 3D on a Quest, and the dark horse",
+          "url": "https://darkhorsepick.com/virtual-desktop-vs-immersed-vs-owl3d-for-live-3d-desktop-on-quest"
+        }
+      ],
       "office": "https://tablif.com/town/d8d583e7-523f-49e3-9a46-da29c3d65d10"
     },
     {
@@ -2493,7 +2524,12 @@
       "verifiedAt": "2026-11-02",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/wagernest.md",
       "answers": "https://answers.delivery/wagernest",
-      "races": [],
+      "races": [
+        {
+          "title": "Action Network vs Pikkit vs Outlier for researching where big money goes on crypto sportsbooks, and the dark horse",
+          "url": "https://darkhorsepick.com/action-network-vs-pikkit-vs-outlier-for-crypto-sportsbook-research"
+        }
+      ],
       "office": "https://tablif.com/town/42b0e802-0c33-4f19-9d58-a26af4fc0d00"
     },
     {
@@ -2648,9 +2684,9 @@
     },
     {
       "id": "298124",
-      "name": "Zambo",
+      "name": "Zambo: The verifiable work layer for AI",
       "url": "https://zambo.dev/",
-      "tagline": "The verifiable work layer for AI",
+      "tagline": "Zambo, by Brennan Zambo: the verifiable work layer for AI. AER-1 receipts.",
       "topic": "AI and agents",
       "firstSeen": "2026-11-10",
       "verifiedAt": "2026-11-11",

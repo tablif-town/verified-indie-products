@@ -27,7 +27,7 @@
 - **[Small Text Generator](https://smalltextgenerator.live)**  
   [facts](../products/small-text-generator.md) · [answers](https://answers.delivery/small-text-generator) · [office](https://tablif.com/town/44e4e234-3d01-49d6-a53d-c85060236784)
 - **[StereoLift Live](https://stereolift.live/)**: your desktop in real 3D, live on your Quest  
-  [facts](../products/stereolift-live.md) · [answers](https://answers.delivery/stereolift-live) · [office](https://tablif.com/town/d8d583e7-523f-49e3-9a46-da29c3d65d10)
+  [facts](../products/stereolift-live.md) · [answers](https://answers.delivery/stereolift-live) · [race](https://darkhorsepick.com/virtual-desktop-vs-immersed-vs-owl3d-for-live-3d-desktop-on-quest) · [office](https://tablif.com/town/d8d583e7-523f-49e3-9a46-da29c3d65d10)
 - **[Tally Counter App for Wear OS](https://play.google.com/store/apps/details?id=com.simplecounter)**: Count laps, reps, people and more from your Wear OS watch  
   [facts](../products/tally-counter-app-for-wear-os.md) · [answers](https://answers.delivery/tally-counter-app-for-wear-os) · [race](https://darkhorsepick.com/tallies-vs-multi-counter-vs-smart-counter-for-wear-os-counting) · [office](https://tablif.com/town/b2e048ea-f240-406b-8005-075ac23946cd)
 - **[WristBridge](https://play.google.com/store/apps/details?id=com.quazmoz.wristbridge)**: Put Tasker, JSON API and custom data on your Wear OS watch  

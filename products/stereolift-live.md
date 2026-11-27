@@ -248,6 +248,10 @@ Yes. The support page has a setup guide that covers the requirements, linking yo
 - [How to use a large virtual PC screen in your Quest](https://answers.delivery/stereolift-live/view-pc-screen-in-3d-vr-headset)
 - [When the living room TV is taken for the evening](https://answers.delivery/stereolift-live/when-the-living-room-tv-is-taken-for-the-evening)
 
+## Raced against well-known names
+
+- [Virtual Desktop vs Immersed vs Owl3D for watching your PC screen in live 3D on a Quest, and the dark horse](https://darkhorsepick.com/virtual-desktop-vs-immersed-vs-owl3d-for-live-3d-desktop-on-quest)
+
 ---
 
 Part of [Verified indie products](../README.md) · [office in Tablif Town](https://tablif.com/town/d8d583e7-523f-49e3-9a46-da29c3d65d10)

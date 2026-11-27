@@ -1,6 +1,6 @@
-# Zambo
+# Zambo: The verifiable work layer for AI
 
-The verifiable work layer for AI
+Zambo, by Brennan Zambo: the verifiable work layer for AI. AER-1 receipts.
 
 - **Site:** [zambo.dev](https://zambo.dev/)
 - **Topic:** [AI and agents](../topics/ai-and-agents.md)

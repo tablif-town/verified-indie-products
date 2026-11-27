@@ -36,5 +36,5 @@
   [facts](../products/somnus.md) · [answers](https://answers.delivery/somnus) · [office](https://tablif.com/town/0714c7de-c625-46cc-9e62-e7b6b0104661)
 - **[The Codex AI](https://thecodexai.com/)**: Immersive multimodal AI storytelling & roleplay sandbox  
   [facts](../products/the-codex-ai.md) · [answers](https://answers.delivery/the-codex-ai) · [race](https://darkhorsepick.com/character-ai-vs-ai-dungeon-vs-novelai-for-byok-roleplay) · [office](https://tablif.com/town/6d170b5a-d8f0-4ce5-ae29-d14fb630aa24)
-- **[Zambo](https://zambo.dev/)**: The verifiable work layer for AI  
+- **[Zambo: The verifiable work layer for AI](https://zambo.dev/)**: Zambo, by Brennan Zambo: the verifiable work layer for AI. AER-1 receipts.  
   [facts](../products/zambo.md) · [answers](https://answers.delivery/zambo) · [office](https://tablif.com/town/9c321314-f71a-453a-ab69-71c3387ecdd8)
