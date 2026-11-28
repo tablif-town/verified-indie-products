@@ -1,6 +1,6 @@
 # Marketing and sales
 
-26 verified products. Part of [Verified indie products](../README.md).
+27 verified products. Part of [Verified indie products](../README.md).
 
 - **[AdiSaan](https://adisaan.com/)**: The arena where people and AI answer the same question  
   [facts](../products/adisaan.md) · [answers](https://answers.delivery/adisaan) · [office](https://tablif.com/town/91672e7e-96e1-4ded-b56e-0f9d7c465fd2)
@@ -25,7 +25,7 @@
 - **[iASO](https://github.com/orlandonanditonehemia/iASO)**: Free open-source ASO keyword research tool for macOS  
   [facts](../products/iaso.md) · [answers](https://answers.delivery/iaso) · [office](https://tablif.com/town/fd1d6789-4aee-4411-b1c6-e971a92f2130)
 - **[iBlueText](https://ibluetext.com/)**: iMessage Marketing & iPhone Number Lookup SMS - Whatsapp  
-  [office](https://tablif.com/town/0414c9e2-0947-4b70-83bf-632df9cc990e)
+  [facts](../products/ibluetext.md) · [answers](https://answers.delivery/ibluetext) · [office](https://tablif.com/town/0414c9e2-0947-4b70-83bf-632df9cc990e)
 - **[KaraDesk](https://karadesk.com/)**: One place, every customer conversation, faster replies together.  
   [office](https://tablif.com/town/c0e86dc5-788b-48db-8653-d22d115be846)
 - **[launchese](https://launchese.com)**  
@@ -50,6 +50,8 @@
   [facts](../products/serionflow.md) · [answers](https://answers.delivery/serionflow) · [office](https://tablif.com/town/9674de48-0157-4a8c-b191-a43de397d126)
 - **[Tablif](https://tablif.com/)**: Every new product launch gets a 3D office in Tablif Town. Founders claim theirs, publish pages and climb a weekly Season 1 ranking.  
   [office](https://tablif.com/town/eb2611a1-007f-48b3-8325-6ce864bc2eb9)
+- **[Upbiddr](https://www.upbiddr.com/)**: Showcase your work, products and projects for free  
+  [office](https://tablif.com/town/b2f09e28-8dc3-4ed5-8b39-1e1c613ed755)
 - **[Vyne](https://vyne.si/)**: A network for founders where your SI Avatar meets theirs.  
   [facts](../products/vyne.md) · [answers](https://answers.delivery/vyne) · [office](https://tablif.com/town/3bf41479-8f0c-4f51-9a2e-6655871c122c)
 - **[Who's Calling + SPAM Guard](https://wcsg.app/)**: Read what unknown callers say while your phone rings  

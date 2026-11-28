@@ -1,6 +1,6 @@
 # Developer
 
-16 verified products. Part of [Verified indie products](../README.md).
+17 verified products. Part of [Verified indie products](../README.md).
 
 - **[AI & Automation Consulting](https://consultant.quinnfavo.com/)**: AI infrastructure, DevOps automation, and LLM workflow consulting.  
   [facts](../products/ai-automation-consulting.md) · [answers](https://answers.delivery/ai-automation-consulting) · [race](https://darkhorsepick.com/alpacked-vs-acosom-vs-kevin-leary-for-ai-infrastructure-handoff) · [office](https://tablif.com/town/7ac422a9-3005-444e-8b5c-717410d25b6d)
@@ -24,6 +24,8 @@
   [facts](../products/pulsecima-pulse.md) · [answers](https://answers.delivery/pulsecima-pulse) · [office](https://tablif.com/town/e82ecec4-64f1-47f3-9ed5-a325aae3be82)
 - **[Quay Term](https://quayterm.com/)**: Your SSH hosts, terminals and file transfers in one window.  
   [facts](../products/quay-term.md) · [answers](https://answers.delivery/quay-term) · [office](https://tablif.com/town/99e5f9a5-74a1-46cd-9c74-76d043734592)
+- **[SaaS Emailer](https://saasemailer.com)**  
+  [office](https://tablif.com/town/22670a73-8701-4c91-8c48-1125466b863c)
 - **[Spicrawl](https://spicrawl.com/)**  
   [facts](../products/spicrawl.md) · [answers](https://answers.delivery/spicrawl) · [office](https://tablif.com/town/62843118-3a27-4db3-9658-aade5cdb6ad5)
 - **[Supervisor](https://supervisor.gg)**  

@@ -164,6 +164,10 @@ Yes. The three tiers are billed monthly and you can cancel any time.
 - [How to tell serious callers from tire-kickers](https://answers.delivery/assay/how-to-tell-serious-phone-leads-from-tire-kickers)
 - [How to call every lead on a list before it goes cold](https://answers.delivery/assay/how-to-work-an-outbound-sales-lead-list)
 
+## Raced against well-known names
+
+- [Rosie vs Goodcall vs Frontdesk for answering, scoring and calling back sales leads with an AI agent, and the dark horse](https://darkhorsepick.com/rosie-vs-goodcall-vs-frontdesk-for-scoring-sales-calls)
+
 ---
 
 Part of [Verified indie products](../README.md) · [office in Tablif Town](https://tablif.com/town/3f16922e-fd00-48ce-90bb-0b30cb0a3e1d)

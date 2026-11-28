@@ -1,11 +1,13 @@
 # Industry
 
-26 verified products. Part of [Verified indie products](../README.md).
+28 verified products. Part of [Verified indie products](../README.md).
 
 - **[3DJ.app](https://www.3dj.app/)**: AI-assisted CAD and 3D creation for makers and agents  
   [facts](../products/3djapp.md) · [answers](https://answers.delivery/3djapp) · [office](https://tablif.com/town/33a80ef5-8ffb-4fef-a184-2d701a523653)
 - **[BuyMePizza](https://buymepizza.com/)**: Accept crypto tips with 0% fees. 100% direct to your wallet  
   [facts](../products/buymepizza.md) · [answers](https://answers.delivery/buymepizza) · [office](https://tablif.com/town/813d0715-5b82-46a9-9b8d-65f42b7d1b64)
+- **[ContentsKeeper](https://contentskeeper.com/)**: Private on-device AI home inventory for insurance claims  
+  [office](https://tablif.com/town/91611a51-ae2c-4033-9c63-debf4d2d6c1c)
 - **[Custom Boxes Canada](https://urgentboxes.ca)**  
   [office](https://tablif.com/town/1e95c810-d7ef-4e21-be6a-6e45cffba7f5)
 - **[Estackly](https://estackly.com/)**: Your own online store, set up in an afternoon  
@@ -50,6 +52,8 @@
   [facts](../products/smartappaz.md) · [answers](https://answers.delivery/smartappaz) · [office](https://tablif.com/town/e2a6f522-f12a-4cc1-994d-67242d97b599)
 - **[Stylino GR](https://stylino.gr/)**: One search, every fashion store shipping to Greece  
   [facts](../products/stylino-gr.md) · [answers](https://answers.delivery/stylino-gr) · [office](https://tablif.com/town/296a7680-41d5-478d-8e76-36a75eda7d41)
+- **[SupaGym](https://supagym.app/)**: Gym management system for member and payment control  
+  [office](https://tablif.com/town/0356a2dc-0b9f-4b09-9164-49ff5f195d0e)
 - **[SuperBox S8 Max](https://mysuperboxtvbox.com/product/superbox-s8-max/)**: A powerful Android TV box for everyday home entertainment  
   [office](https://tablif.com/town/2927ce49-1ffe-4510-9af2-47bd41b2279b)
 - **[Towami](https://towami.com)**  

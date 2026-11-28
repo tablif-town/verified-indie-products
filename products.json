@@ -1,8 +1,8 @@
 {
   "name": "Verified indie products",
   "source": "https://tablif.com",
-  "updated": "2026-11-27",
-  "count": 198,
+  "updated": "2026-11-28",
+  "count": 205,
   "products": [
     {
       "id": "219875",
@@ -73,6 +73,19 @@
         }
       ],
       "office": "https://tablif.com/town/7ac422a9-3005-444e-8b5c-717410d25b6d"
+    },
+    {
+      "id": "400517",
+      "name": "AI Queue Master",
+      "url": "https://chromewebstore.google.com/detail/ai-queue-master/iljbijbhapflcghijedeannghibkipai",
+      "tagline": "Batch CSVs & queue prompts in your AI tabs or own API",
+      "topic": "Work and office",
+      "firstSeen": "2026-11-26",
+      "verifiedAt": "2026-11-27",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/6cc84aaf-ba42-453f-8065-0b29228cecc1"
     },
     {
       "id": "306698",
@@ -167,7 +180,12 @@
       "verifiedAt": "2026-10-27",
       "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/assay.md",
       "answers": "https://answers.delivery/assay",
-      "races": [],
+      "races": [
+        {
+          "title": "Rosie vs Goodcall vs Frontdesk for answering, scoring and calling back sales leads with an AI agent, and the dark horse",
+          "url": "https://darkhorsepick.com/rosie-vs-goodcall-vs-frontdesk-for-scoring-sales-calls"
+        }
+      ],
       "office": "https://tablif.com/town/3f16922e-fd00-48ce-90bb-0b30cb0a3e1d"
     },
     {
@@ -349,8 +367,8 @@
       "topic": "Desktop and utilities",
       "firstSeen": "2026-11-13",
       "verifiedAt": "2026-11-25",
-      "facts": null,
-      "answers": null,
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/calcul-volume.md",
+      "answers": "https://answers.delivery/calcul-volume",
       "races": [],
       "office": "https://tablif.com/town/fd5ec958-6eec-4457-a789-e2fdf03be754"
     },
@@ -397,6 +415,19 @@
         }
       ],
       "office": "https://tablif.com/town/8cec8f2d-5e00-43b8-8632-3ff521e4a502"
+    },
+    {
+      "id": "407406",
+      "name": "ChessGPT",
+      "url": "https://chess-gpt-two.vercel.app/",
+      "tagline": "Play tournament-grade chess against any model in your ChatGPT account",
+      "topic": "Startup",
+      "firstSeen": "2026-11-27",
+      "verifiedAt": "2026-11-27",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/2a3ea3c1-83c6-41b4-bb7a-a6c8ea36745d"
     },
     {
       "id": "205899",
@@ -488,6 +519,19 @@
       "answers": "https://answers.delivery/confessitlol",
       "races": [],
       "office": "https://tablif.com/town/7a5a016e-dc4f-403b-acfb-395b17f2b760"
+    },
+    {
+      "id": "376866",
+      "name": "ContentsKeeper",
+      "url": "https://contentskeeper.com/",
+      "tagline": "Private on-device AI home inventory for insurance claims",
+      "topic": "Industry",
+      "firstSeen": "2026-11-22",
+      "verifiedAt": "2026-11-28",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/91611a51-ae2c-4033-9c63-debf4d2d6c1c"
     },
     {
       "id": "151934",
@@ -1141,8 +1185,8 @@
       "topic": "Marketing and sales",
       "firstSeen": "2026-11-12",
       "verifiedAt": "2026-11-21",
-      "facts": null,
-      "answers": null,
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/ibluetext.md",
+      "answers": "https://answers.delivery/ibluetext",
       "races": [],
       "office": "https://tablif.com/town/0414c9e2-0947-4b70-83bf-632df9cc990e"
     },
@@ -1158,6 +1202,19 @@
       "answers": "https://answers.delivery/iconcraft-for-mac",
       "races": [],
       "office": "https://tablif.com/town/963b6bd5-89c9-49c1-bb05-cc5fa8a133d3"
+    },
+    {
+      "id": "322040",
+      "name": "Image Compressor Now",
+      "url": "https://imagecompressornow.com/",
+      "tagline": "Compress images free in your browser. Nothing is uploaded.",
+      "topic": "Work and office",
+      "firstSeen": "2026-11-18",
+      "verifiedAt": "2026-11-27",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/6bf88276-7eb9-4731-a463-8b563a6fec02"
     },
     {
       "id": "393000",
@@ -1206,8 +1263,8 @@
       "topic": "Personal",
       "firstSeen": "2026-11-12",
       "verifiedAt": "2026-11-13",
-      "facts": null,
-      "answers": null,
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/jot-20.md",
+      "answers": "https://answers.delivery/jot-20",
       "races": [],
       "office": "https://tablif.com/town/2e3e885c-5c10-46e9-9379-472401d2b26c"
     },
@@ -1964,8 +2021,8 @@
       "topic": "Personal",
       "firstSeen": "2026-11-16",
       "verifiedAt": "2026-11-16",
-      "facts": null,
-      "answers": null,
+      "facts": "https://github.com/tablif-town/verified-indie-products/blob/main/products/rob-run-wiki.md",
+      "answers": "https://answers.delivery/rob-run-wiki",
       "races": [],
       "office": "https://tablif.com/town/3f76be3e-b7a9-4654-a9e5-7ac87c62c3cf"
     },
@@ -1981,6 +2038,19 @@
       "answers": "https://answers.delivery/rowsend",
       "races": [],
       "office": "https://tablif.com/town/14c3ec32-e7ea-4c5a-80f1-6a82b16cf3b2"
+    },
+    {
+      "id": "407869",
+      "name": "SaaS Emailer",
+      "url": "https://saasemailer.com",
+      "tagline": null,
+      "topic": "Developer",
+      "firstSeen": "2026-11-27",
+      "verifiedAt": "2026-11-27",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/22670a73-8701-4c91-8c48-1125466b863c"
     },
     {
       "id": "248009",
@@ -2287,6 +2357,19 @@
       "office": "https://tablif.com/town/296a7680-41d5-478d-8e76-36a75eda7d41"
     },
     {
+      "id": "155717",
+      "name": "SupaGym",
+      "url": "https://supagym.app/",
+      "tagline": "Gym management system for member and payment control",
+      "topic": "Industry",
+      "firstSeen": "2026-09-16",
+      "verifiedAt": "2026-11-27",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/0356a2dc-0b9f-4b09-9164-49ff5f195d0e"
+    },
+    {
       "id": "231017",
       "name": "SuperBox S8 Max",
       "url": "https://mysuperboxtvbox.com/product/superbox-s8-max/",
@@ -2474,6 +2557,19 @@
       "answers": "https://answers.delivery/tunenoodle",
       "races": [],
       "office": "https://tablif.com/town/20e870f7-c631-45d0-a10f-26c08a8abe56"
+    },
+    {
+      "id": "278936",
+      "name": "Upbiddr",
+      "url": "https://www.upbiddr.com/",
+      "tagline": "Showcase your work, products and projects for free",
+      "topic": "Marketing and sales",
+      "firstSeen": "2026-11-03",
+      "verifiedAt": "2026-11-27",
+      "facts": null,
+      "answers": null,
+      "races": [],
+      "office": "https://tablif.com/town/b2f09e28-8dc3-4ed5-8b39-1e1c613ed755"
     },
     {
       "id": "255505",

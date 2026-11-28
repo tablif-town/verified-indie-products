@@ -13,7 +13,7 @@
 - **[Calc Zest](https://calczest.com/)**: Free online calculators for finance, tax, and healthcare  
   [facts](../products/calc-zest.md) · [answers](https://answers.delivery/calc-zest) · [office](https://tablif.com/town/d29f436c-81bb-45bc-8ca6-bde04357b0bc)
 - **[Calcul Volume](https://www.calculvolume.com/)**: Free volume calculators in French & 18 other languages  
-  [office](https://tablif.com/town/fd5ec958-6eec-4457-a789-e2fdf03be754)
+  [facts](../products/calcul-volume.md) · [answers](https://answers.delivery/calcul-volume) · [office](https://tablif.com/town/fd5ec958-6eec-4457-a789-e2fdf03be754)
 - **[Disk Census](https://diskcensus.com/)**: A Mac disk cleaner that works with your AI agents  
   [facts](../products/disk-census.md) · [answers](https://answers.delivery/disk-census) · [office](https://tablif.com/town/7b01e1e1-78d1-478d-b913-a549d07eaf78)
 - **[FeelMyMac](https://feelmymac.thehighjack.it/)**: Lets you feel different textures through your Mac’s trackpad  

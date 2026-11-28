@@ -1,11 +1,13 @@
 # Work and office
 
-22 verified products. Part of [Verified indie products](../README.md).
+24 verified products. Part of [Verified indie products](../README.md).
 
+- **[AI Queue Master](https://chromewebstore.google.com/detail/ai-queue-master/iljbijbhapflcghijedeannghibkipai)**: Batch CSVs & queue prompts in your AI tabs or own API  
+  [office](https://tablif.com/town/6cc84aaf-ba42-453f-8065-0b29228cecc1)
 - **[Ariftly](https://ariftly.io)**  
   [facts](../products/ariftly.md) · [answers](https://answers.delivery/ariftly) · [office](https://tablif.com/town/cdaea6e9-893f-48af-b0b0-520b6847a6ea)
 - **[Assay](https://getassay.io/)**: Every call gets caught, in or out. What matters gets through  
-  [facts](../products/assay.md) · [answers](https://answers.delivery/assay) · [office](https://tablif.com/town/3f16922e-fd00-48ce-90bb-0b30cb0a3e1d)
+  [facts](../products/assay.md) · [answers](https://answers.delivery/assay) · [race](https://darkhorsepick.com/rosie-vs-goodcall-vs-frontdesk-for-scoring-sales-calls) · [office](https://tablif.com/town/3f16922e-fd00-48ce-90bb-0b30cb0a3e1d)
 - **[BookingMachine](https://bookingmachine.io/)**: Quote-first booking for local service businesses  
   [facts](../products/bookingmachine.md) · [answers](https://answers.delivery/bookingmachine) · [office](https://tablif.com/town/d236d431-56ab-41b7-8f83-2a23a5522ad4)
 - **[CloakAI](https://cloakai.me/)**: The invisible AI copilot for live job interviews.  
@@ -22,6 +24,8 @@
   [facts](../products/flickdeck.md) · [answers](https://answers.delivery/flickdeck) · [office](https://tablif.com/town/48d709a7-1e8e-423c-84b1-0cfa5998ec93)
 - **[HostMyImg](https://hostmyimg.com/)**: Free Image Hosting to Upload and Share Images Online  
   [facts](../products/hostmyimg.md) · [answers](https://answers.delivery/hostmyimg) · [office](https://tablif.com/town/9c47c466-54a6-4c52-9a0b-fe9f9bcc19b8)
+- **[Image Compressor Now](https://imagecompressornow.com/)**: Compress images free in your browser. Nothing is uploaded.  
+  [office](https://tablif.com/town/6bf88276-7eb9-4731-a463-8b563a6fec02)
 - **[InvoiceKit by RoohSites](https://invoice.roohsites.com/)**: Professional invoices. No signup. No subscription.  
   [facts](../products/invoicekit-by-roohsites.md) · [answers](https://answers.delivery/invoicekit-by-roohsites) · [office](https://tablif.com/town/45f795ef-1f4a-4f3a-a887-8386ed5d9dbd)
 - **[KDCI](https://kdci.co/)**: Great Teams, Delivered.  

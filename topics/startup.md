@@ -1,6 +1,6 @@
 # Startup
 
-7 verified products. Part of [Verified indie products](../README.md).
+8 verified products. Part of [Verified indie products](../README.md).
 
 - **[AIOHM White Label](https://aiohm.org/white-label)**: White-label AI marketing platform for agencies and consultants  
   [facts](../products/aiohm-white-label.md) · [answers](https://answers.delivery/aiohm-white-label) · [office](https://tablif.com/town/326181bd-56b5-411d-992b-2caa23d335e8)
@@ -8,6 +8,8 @@
   [facts](../products/beq-build-estimate-quote.md) · [answers](https://answers.delivery/beq-build-estimate-quote) · [office](https://tablif.com/town/08585f5b-f70e-4245-8ef7-3bc126ecff94)
 - **[Bretzel SEO](https://bretzel-seo.fr/)**: All-in-one local SEO toolkit for agencies and freelancers  
   [facts](../products/bretzel-seo.md) · [answers](https://answers.delivery/bretzel-seo) · [race](https://darkhorsepick.com/brightlocal-vs-local-falcon-vs-site-analyzer-for-local-seo-client-audits) · [office](https://tablif.com/town/dc109927-2c84-4657-8798-23a2fc0fc225)
+- **[ChessGPT](https://chess-gpt-two.vercel.app/)**: Play tournament-grade chess against any model in your ChatGPT account  
+  [office](https://tablif.com/town/2a3ea3c1-83c6-41b4-bb7a-a6c8ea36745d)
 - **[Client Finch](https://clientfinch.co.uk/)**: Discover UK businesses with actionable website opportunities  
   [facts](../products/client-finch.md) · [answers](https://answers.delivery/client-finch) · [office](https://tablif.com/town/591720df-e471-47a0-ba8c-886774eb3c05)
 - **[Freveo](https://freveo.app/)**: A freelancer workspace that won’t let you start unpaid work  

@@ -67,7 +67,7 @@
 ## J
 
 - **[Jot 2.0](https://sayjot.xyz/)**: Select text, tap Shift twice, it's a markdown file  
-  [office](https://tablif.com/town/2e3e885c-5c10-46e9-9379-472401d2b26c)
+  [facts](../products/jot-20.md) · [answers](https://answers.delivery/jot-20) · [office](https://tablif.com/town/2e3e885c-5c10-46e9-9379-472401d2b26c)
 
 ## K
 
@@ -110,7 +110,7 @@
 - **[Randomverse](https://randomverse-social.vercel.app)**: Social, without expectations.  
   [facts](../products/randomverse.md) · [answers](https://answers.delivery/randomverse) · [race](https://darkhorsepick.com/mastodon-vs-glass-vs-pixelfed-for-algorithm-free-discovery) · [office](https://tablif.com/town/dffb757c-0a76-4c0e-a575-217d0f8f17f5)
 - **[ROB RUN Wiki](https://robrunwiki.net)**  
-  [office](https://tablif.com/town/3f76be3e-b7a9-4654-a9e5-7ac87c62c3cf)
+  [facts](../products/rob-run-wiki.md) · [answers](https://answers.delivery/rob-run-wiki) · [office](https://tablif.com/town/3f76be3e-b7a9-4654-a9e5-7ac87c62c3cf)
 
 ## S
 
